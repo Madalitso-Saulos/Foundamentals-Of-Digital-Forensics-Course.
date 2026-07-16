@@ -43,6 +43,35 @@
 Digital Forensics (DFOR) is one of the core domains of cybersecurity that focuses on identifying, collecting, preserving, analyzing, and presenting digital evidence in a manner that is legally acceptable. It combines computer science, cybersecurity, criminal investigation, and law to investigate cybercrimes and security incidents. Modern digital forensics courses generally cover digital evidence, investigation methodology, legal considerations, forensic tools, file systems, mobile devices, networks, cloud environments, reporting, and courtroom procedures
 
 ---
+## Learning Objectives
+
+By the end of this course, you will be able to:
+
+- Understand the fundamentals of Digital Forensics.
+- Apply the digital forensics investigation process.
+- Use forensic tools to collect and analyze digital evidence.
+- Maintain the integrity of digital evidence.
+- Prepare professional forensic investigation reports.
+
+<details>
+<summary><strong> View All Learning Objectives</strong></summary>
+
+- Understand the fundamentals, history, objectives, and importance of Digital Forensics.
+- Identify and classify different types of digital evidence.
+- Apply forensic investigation methodologies, from evidence collection to reporting.
+- Use industry-standard digital forensic tools and techniques.
+- Preserve evidence using proper chain of custody procedures.
+- Investigate cybercrimes involving computers, mobile devices, networks, and cloud platforms.
+- Perform file system, memory, network, and mobile forensic analysis.
+- Understand the legal and ethical requirements of digital forensic investigations.
+- Explore emerging trends such as cloud, IoT, blockchain, and anti-forensics.
+- Understand how **Artificial Intelligence (AI)** and **Machine Learning (ML)** enhance digital forensics by automating evidence analysis, detecting anomalies, identifying attack patterns, classifying malware, and improving investigation efficiency.
+- Analyze real-world digital forensic case studies.
+- Develop practical skills required for careers in digital forensics and cybersecurity.
+
+</details>
+
+---
 
 
 # Chapter 1 — Introduction to Digital Forensics
@@ -242,7 +271,7 @@ This chapter provides the foundation for understanding digital forensics and pre
 
 ---
 
-## End of Chapter 1
+# Digital Forensics Investigation Process
 
 ---
 
