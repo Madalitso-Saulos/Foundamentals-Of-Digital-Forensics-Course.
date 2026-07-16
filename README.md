@@ -1,33 +1,44 @@
 # FOUNDAMENTALS OF DIGITAL FORENSICS
-# Lesson 1.1 – Introduction to Digital Forensics
 
 > **Course:** Digital Forensics Fundamentals  
-> **Module:** Lesson 1.1 – Introduction to Digital Forensics  
 > **Author:** Madalitso Saulos  
-> **Repository:** Digital Forensics Resources
 
 ---
 
-## 📖 Overview
+##  Course Overview
 
-Digital Forensics is a critical discipline within cybersecurity that focuses on the identification, preservation, examination, analysis, and presentation of digital evidence. It enables investigators to reconstruct events, identify malicious activities, and produce evidence that is scientifically reliable and legally admissible.
+Digital Forensics (DFOR) is one of the core domains of cybersecurity that focuses on identifying, collecting, preserving, analyzing, and presenting digital evidence in a manner that is legally acceptable. It combines computer science, cybersecurity, criminal investigation, and law to investigate cybercrimes and security incidents. Modern digital forensics courses generally cover digital evidence, investigation methodology, legal considerations, forensic tools, file systems, mobile devices, networks, cloud environments, reporting, and courtroom procedures
 
 This lesson introduces the core concepts of Digital Forensics, the Digital Forensics and Incident Response (DFIR) lifecycle, different investigation types, the responsibilities of forensic investigators, and real-world case studies demonstrating forensic methodologies.
 
 ---
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 By the end of this lesson, you will be able to:
 
-- Define **Digital Forensics** and explain its role in cybersecurity.
-- Differentiate between **Digital Forensics**, **DFIR**, **Incident Response**, and **eDiscovery**.
-- Identify the major types of digital forensic investigations.
-- Understand the responsibilities of a forensic investigator.
-- Analyze real-world forensic investigation scenarios.
-- Recognize the importance of evidence preservation and chain of custody.
+
+Course Learning Outcomes
+
+By the end of this course, students should be able to:
+
+- Understand the principles of digital forensics.
+- Explain the forensic investigation process.
+- Differentiate various forensic disciplines.
+- Acquire and preserve digital evidence.
+- Maintain chain of custody.
+- Perform forensic imaging.
+- Verify evidence integrity using hashing.
+- Analyze Windows, Linux, and Mobile artifacts.
+- Investigate cyber incidents.
+- Prepare professional forensic reports.
+- Understand legal and ethical responsibilities.
+- Use common morden forensic tools.
 
 ---
+
+##Lesson 1.1 – Introduction to Digital Forensics
+
 
 # 📁 Lab Exercise
 
@@ -53,12 +64,7 @@ cat Bonus_aa Bonus_ab Bonus_ac Bonus_ad > Bonus.zip
 ```cmd
 copy /b Bonus_aa + Bonus_ab + Bonus_ac + Bonus_ad Bonus.zip
 ```
-
-Extract the archive before beginning the practical exercises.
-
----
-
-# 📚 Lesson Contents
+                                                                                                                                                                                                                                                                                                                                                                                                               . s
 
 ## 1. What is Digital Forensics?
 
