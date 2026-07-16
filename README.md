@@ -87,18 +87,17 @@ The increased use of smartphones, cloud services, and smart devices created new 
 
 Digital forensics is important in cybersecurity, law enforcement, and organizations because it helps investigate digital crimes, collect evidence, recover data, and improve security.
 
-## 1. Cybercrime Investigation
+### 1. Cybercrime Investigation
 
 Digital forensics helps investigators identify and analyze cybercriminal activities such as  Hacking, Malware attacks, Data breaches, Financial crimes and Cyber espionage. Forensic Investigators examine digital traces left by attackers. This information helps identify attackers and understand how crimes were committed.
 
-## 2. Evidence Collection for Legal Proceedings
+### 2. Evidence Collection for Legal Proceedings
 
 Digital forensics helps collect and preserve digital evidence such as videos, emails, chat messages that can be used in court.
 Digital forensics ensures that evidence is authentic , reliable and legally acceptable
 
----
 
-## 3. Incident Response and Cybersecurity
+### 3. Incident Response and Cybersecurity
 
 Organizations use digital forensics to investigate and respond to cybersecurity incidents such as Ransomware attacks, Data breaches, Insider threats e.t.c.
 
@@ -108,14 +107,13 @@ Digital forensic investigations help organizations to:
 - Determine affected systems
 - Remove threats
 - Prevent future attacks
+- 
 
----
-
-## 1.4.4 Data Recovery
+## 4. Data Recovery
 
 Digital forensics can help recover lost or damaged information by recovering deleted documents, mobile messages and also recovering damaged storage data
 
----
+----
 
 ## Summary
 
