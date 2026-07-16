@@ -37,7 +37,7 @@ By the end of this course, students should be able to:
 
 ---
 
-##Lesson 1.1 – Introduction to Digital Forensics
+## Lesson 1.1 – Introduction to Digital Forensics
 
 
 # 📁 Lab Exercise
