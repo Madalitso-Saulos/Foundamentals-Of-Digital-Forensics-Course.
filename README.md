@@ -108,7 +108,7 @@ Digital forensics ensures that evidence is authentic , reliable and legally acce
 
 The main types of digital forensics include:
 
-## 1. Computer Forensics
+### 1. Computer Forensics
 
 Computer forensics focuses on investigating computers such as desktops, laptops, and storage devices. It involves recovering deleted files, analyzing operating system activities, examining user activities and finding evidence related to cybercrimes.
 
@@ -144,7 +144,7 @@ Malware forensics focuses on investigating malicious software and understanding 
 IoT forensics investigates smart and connected devices to collect digital evidence. It retrieves device logs, user activities, communication records and sensor data.
 
 
-# Summary Table
+### Summary Table
 
 | Type of Digital Forensics | Main Focus |
 |---|---|
