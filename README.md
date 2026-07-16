@@ -94,7 +94,7 @@ When crimes happened, investigators manually examined computer systems to find e
 
 The field was known as computer forensics because investigations mainly involved desktop computers and their storage devices. During this period, there were few forensic tools and no standard investigation procedures.
 
-### Growth of Computer Crime (1990s)**
+### Growth of Computer Crime (1990s)
 
 In the 1990s, personal computers and the internet became widely available. This led to an increase in cybercrimes such as hacking, malware attacks, email fraud, identity theft, and online scams.
 
