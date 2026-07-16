@@ -10,11 +10,10 @@
 ![Markdown](https://img.shields.io/badge/Built%20With-Markdown-black?style=for-the-badge)
 
 ---
-#  Table of Contents
-
-- [About This Course](#-about-this-course)
+<details>
+<summary><strong> Table of Contents (Click to Expand)</strong></summary>
+  
 - [Course Objectives](#-course-objectives)
-- [Course Structure](#-course-structure)
 - [Chapter 1 — Introduction to Digital Forensics](#chapter-1--introduction-to-digital-forensics)
 - [Chapter 2 — Digital Forensics Investigation Process](#chapter-2--digital-forensics-investigation-framework)
 - [Chapter 3 — Cybercrime Fundamentals](#chapter-3--cybercrime-fundamentals)
@@ -29,16 +28,16 @@
 - [Chapter 12 — Machine Leearning and Artificial Intelligence in Digital Forensic](#chapter-11--Machine-Leearning-and-Artificial-Intelligence-in-Digital-Forensic)
 - [Chapter 13 — Professional Reporting and Presentation](#chapter-13--network-forensic)
 - [Chapter 14 — Digital Forensics Tools](#Chapter-12--digital-forensics-tools)
-- [References](#Reference)
-- [Target Audience](#-target-audience)
-- [Learning Format](#-learning-format)
+- [References](#References)
 - [Contributing](#-contributing)
 - [License](#-license)
 - [Author](#-author)
-
+- 
+</details>
 ---
 
-# 📚 Course Structure
+#  Course Objectives
+
 
 ## Part I — Foundations of Digital Forensics
 
