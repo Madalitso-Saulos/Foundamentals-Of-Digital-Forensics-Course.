@@ -47,7 +47,7 @@ Digital Forensics (DFOR) is one of the core domains of cybersecurity that focuse
 
 # Chapter 1 — Introduction to Digital Forensics
 
-## Definition of Digital Forensics
+### Definition of Digital Forensics
 
 Digital Forensics is a branch of forensic science that focuses on the identification, preservation, collection, examination, analysis, and presentation of digital evidence obtained from electronic devices and digital systems. It involves the use of scientific methods, specialized tools, and investigative procedures to uncover information that can be used in criminal investigations, cybersecurity incidents, legal proceedings, and organizational security assessments.
 
@@ -100,11 +100,7 @@ Digital forensics ensures that evidence is authentic , reliable and legally acce
 ----
 
 
-
-
-
-
-# Types of Digital Forensics
+## Types of Digital Forensics
 
 The main types of digital forensics include:
 
@@ -222,20 +218,36 @@ The Principle of Association states that:
 ## Example
 
 A document containing an employee username and creation time can associate that employee with the file. It helps establish relationships between evidence and activities.
-
-
-## Summary
-
-Digital forensics helps detect cybercrimes, collect legal evidence, respond to security incidents, recover lost data, and protect organizations from digital threats.
-
-
-End of Chapter 1 — Introduction to Digital Forensics
-
 ---
 
+## Skills Required for Digital Forensics Professionals
+
+A digital forensic professional should have knowledge of:
+
+- Communication and writting skill
+- Operating systems (Windows/Linux)
+- Networking fundamentals
+- Programming
+- Database systems
+- Cybersecurity principles
+- Cryptography
+- Malware analysis
+
+### Chapter Summary
+
+In this chapter, you learned the fundamentals of **Digital Forensics**, including its definition, history, importance, and applications. You also explored the main types of digital forensics, the principles that guide forensic investigations, and the essential skills required by digital forensic professionals.
+
+This chapter provides the foundation for understanding digital forensics and prepares you for the next chapter on the **Digital Forensics Investigation Process**.
+
+-----
+
+# End of Chapter 1
+
+-----
 
 
-## 👨‍💻 Author
+
+## Author
 
 **Madalitso Saulos**
 
