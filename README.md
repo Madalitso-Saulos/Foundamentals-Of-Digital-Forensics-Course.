@@ -42,23 +42,29 @@
 
 Digital Forensics (DFOR) is one of the core domains of cybersecurity that focuses on identifying, collecting, preserving, analyzing, and presenting digital evidence in a manner that is legally acceptable. It combines computer science, cybersecurity, criminal investigation, and law to investigate cybercrimes and security incidents. Modern digital forensics courses generally cover digital evidence, investigation methodology, legal considerations, forensic tools, file systems, mobile devices, networks, cloud environments, reporting, and courtroom procedures
 
-This lesson introduces the core concepts of Digital Forensics, the Digital Forensics and Incident Response (DFIR) lifecycle, different investigation types, the responsibilities of forensic investigators, and real-world case studies demonstrating forensic methodologies.
-
 ---
 
 
 
-# Chapter 1 — Introduction to Digital Forensics
+## Chapter 1 — Introduction to Digital Forensics
 
-### Chapter 1 — Introduction to Digital Forensics
-- What is Digital Forensics?
-- History and Evolution
-- Importance of Digital Forensics
-- Objectives
-- Scope
-- Applications
-- Career Opportunities
+### Definition of Digital Forensics
 
+Digital Forensics is a branch of forensic science that focuses on the identification, preservation, collection, examination, analysis, and presentation of digital evidence obtained from electronic devices and digital systems. It involves the use of scientific methods, specialized tools, and investigative procedures to uncover information that can be used in criminal investigations, cybersecurity incidents, legal proceedings, and organizational security assessments.
+
+Digital forensics is concerned with recovering and analyzing evidence from various digital sources such as Computers and laptops, Mobile devices and smartphones,Hard drives and storage devices, Network devices, Cloud platforms, Internet browsers, Email systems, Social media platforms such as WhatsApp, IoT devices , and databases
+
+**National Institute of Standards and Technology (NIST)** defines digital forensics as:
+
+“The application of science to the identification, collection, examination, and analysis of data while preserving the integrity of the information and maintaining a strict chain of custody.”
+
+This definition emphasizes:
+
+Scientific investigation
+Evidence integrity
+Proper handling procedures
+Documentation
+Digital Forensics Research Workshop (DFRWS)
 
 
 
