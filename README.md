@@ -45,7 +45,7 @@ Digital Forensics (DFOR) is one of the core domains of cybersecurity that focuse
 ---
 
 
-#Chapter 1 — Introduction to Digital Forensics
+# Chapter 1 — Introduction to Digital Forensics
 
 ## Definition of Digital Forensics
 
@@ -57,7 +57,7 @@ Digital forensics is concerned with recovering and analyzing evidence from vario
 
 Digital forensics has developed together with the growth of computers, the internet, mobile devices, and cloud technologies. In the beginning, digital forensics focused mainly on investigating computer crimes. Today, it covers many areas, including computers, networks, smartphones, cloud systems, and smart devices.
 
-**Early Computer Forensics (1970s–1980s)**
+### Early Computer Forensics (1970s–1980s)
 
 Digital forensics started during the early years of computer technology. At that time, computers were mostly used by governments, universities, and large organizations. Since computers were not common, computer crimes were limited.
 
@@ -65,7 +65,7 @@ When crimes happened, investigators manually examined computer systems to find e
 
 The field was known as computer forensics because investigations mainly involved desktop computers and their storage devices. During this period, there were few forensic tools and no standard investigation procedures.
 
-**Growth of Computer Crime (1990s)**
+### Growth of Computer Crime (1990s)**
 
 In the 1990s, personal computers and the internet became widely available. This led to an increase in cybercrimes such as hacking, malware attacks, email fraud, identity theft, and online scams.
 
@@ -75,11 +75,11 @@ Because of the growth of digital crime, law enforcement agencies and organizatio
 - Development of evidence collection procedures
 - Establishment of forensic laboratories
 
-**Internet and Network Forensics Era (2000s)**
+### Internet and Network Forensics Era (2000s)
 
 The growth of the internet in the 2000s changed digital forensics. Investigators began examining not only computers but also networks and online activities.They started analyzing network traffic, Server logs,Emails,Websites and other digital platforms. This expanded digitla forensics into new areas such as Network forensics, Database forensics, Malware analysis and others.
 
-**Mobile and Cloud Forensics Era (2010–Present)**
+### Mobile and Cloud Forensics Era (2010–Present)**
 
 The increased use of smartphones, cloud services, and smart devices created new challenges for digital investigators. Modern digital forensics now involves collecting evidence from many types of devices and platforms. It expands the digital forensics field into subsets like cloud Forensics, IoT Forensics and Machine Learning and Artificial Intelligence in Digital Forensics.
 
@@ -107,7 +107,6 @@ Digital forensic investigations help organizations to:
 - Determine affected systems
 - Remove threats
 - Prevent future attacks
-- 
 
 ## 4. Data Recovery
 
