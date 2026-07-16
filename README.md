@@ -79,7 +79,7 @@ Because of the growth of digital crime, law enforcement agencies and organizatio
 
 The growth of the internet in the 2000s changed digital forensics. Investigators began examining not only computers but also networks and online activities.They started analyzing network traffic, Server logs,Emails,Websites and other digital platforms. This expanded digitla forensics into new areas such as Network forensics, Database forensics, Malware analysis and others.
 
-### Mobile and Cloud Forensics Era (2010–Present)**
+### Mobile and Cloud Forensics Era (2010–Present)
 
 The increased use of smartphones, cloud services, and smart devices created new challenges for digital investigators. Modern digital forensics now involves collecting evidence from many types of devices and platforms. It expands the digital forensics field into subsets like cloud Forensics, IoT Forensics and Machine Learning and Artificial Intelligence in Digital Forensics.
 
@@ -87,30 +87,15 @@ The increased use of smartphones, cloud services, and smart devices created new 
 
 Digital forensics is important in cybersecurity, law enforcement, and organizations because it helps investigate digital crimes, collect evidence, recover data, and improve security.
 
-### 1. Cybercrime Investigation
+**1. Cybercrime Investigation**. Digital forensics helps investigators identify and analyze cybercriminal activities such as  Hacking, Malware attacks, Data breaches, Financial crimes and Cyber espionage. Forensic Investigators examine digital traces left by attackers. This information helps identify attackers and understand how crimes were committed.
 
-Digital forensics helps investigators identify and analyze cybercriminal activities such as  Hacking, Malware attacks, Data breaches, Financial crimes and Cyber espionage. Forensic Investigators examine digital traces left by attackers. This information helps identify attackers and understand how crimes were committed.
-
-### 2. Evidence Collection for Legal Proceedings
-
-Digital forensics helps collect and preserve digital evidence such as videos, emails, chat messages that can be used in court.
+**2. Evidence Collection for Legal Proceedings**. Digital forensics helps collect and preserve digital evidence such as videos, emails, chat messages that can be used in court.
 Digital forensics ensures that evidence is authentic , reliable and legally acceptable
 
 
-### 3. Incident Response and Cybersecurity
+**3. Incident Response and Cybersecurity**. Organizations use digital forensics to investigate and respond to cybersecurity incidents such as Ransomware attacks, Data breaches, Insider threats e.t.c. Digital forensic investigations help organizations to identify how an attack happened, determine affected systems, remove threats and revent future attacks
 
-Organizations use digital forensics to investigate and respond to cybersecurity incidents such as Ransomware attacks, Data breaches, Insider threats e.t.c.
-
-Digital forensic investigations help organizations to:
-
-- Identify how an attack happened
-- Determine affected systems
-- Remove threats
-- Prevent future attacks
-
-## 4. Data Recovery
-
-Digital forensics can help recover lost or damaged information by recovering deleted documents, mobile messages and also recovering damaged storage data
+**4. Data Recovery**. Digital forensics can help recover lost or damaged information by recovering deleted documents, mobile messages and also recovering damaged storage data
 
 ----
 
