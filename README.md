@@ -99,6 +99,77 @@ Digital forensics ensures that evidence is authentic , reliable and legally acce
 
 ----
 
+
+
+
+
+
+# Types of Digital Forensics
+
+The main types of digital forensics include:
+
+## 1. Computer Forensics
+
+Computer forensics focuses on investigating computers such as desktops, laptops, and storage devices. It involves recovering deleted files, analyzing operating system activities, examining user activities and finding evidence related to cybercrimes.
+
+## 2. Network Forensics
+
+Network forensics involves monitoring and analyzing network traffic to identify security incidents. It helps to detect cyberattacks., identify unauthorized access, investigate data breaches and analyze communication between devices.
+
+## 3. Mobile Device Forensics
+
+Mobile device forensics focuses on extracting and analyzing evidence from smartphones, tablets, and SIM cards. It can recover text messages, call logs, contacts, photos and videos,  GPS location data, and application information.
+
+## 4. Database Forensics
+
+Database forensics investigates databases to identify unauthorized access, modifications, or data manipulation. It involves analyzing matabase records, transaction logs, user activities and etadata.
+
+
+## 5. Cloud Forensics
+
+Cloud forensics focuses on collecting and analyzing evidence stored in cloud environments. It investigates cloud storage, cloud applications, virtual machines and cloud user activities.
+
+
+## 6. Email Forensics
+
+Email forensics examines email communication to identify evidence related to cyber incidents. It analyzes email messages, email headers, attachments, Sender and receiver information.
+
+## 8. Malware Forensics
+
+Malware forensics focuses on investigating malicious software and understanding its behavior. It helps determine How malware operates,  How malware spreads, the damage caused by malware, and methods used by attackers.
+
+
+## 9. IoT (Internet of Things) Forensics
+
+IoT forensics investigates smart and connected devices to collect digital evidence. It retrieves device logs, user activities, communication records and sensor data.
+
+
+# Summary Table
+
+| Type of Digital Forensics | Main Focus |
+|---|---|
+| Computer Forensics | Computers and storage devices |
+| Network Forensics | Network traffic and cyberattacks |
+| Mobile Device Forensics | Smartphones and tablets |
+| Database Forensics | Database records and logs |
+| Cloud Forensics | Cloud services and storage |
+| Email Forensics | Email messages and headers |
+| Memory Forensics | RAM and live system data |
+| Malware Forensics | Malicious software analysis |
+| IoT Forensics | Smart and connected devices |
+
+---
+
+## Importance of Digital Forensics Types
+
+These different areas of digital forensics help organizations and investigators to:
+
+- Investigate cybercrimes.
+- Recover lost or deleted information.
+- Respond to security incidents.
+- Identify attackers.
+- Provide digital evidence for legal investigations.
+
 ## Summary
 
 Digital forensics helps detect cybercrimes, collect legal evidence, respond to security incidents, recover lost data, and protect organizations from digital threats.
