@@ -45,7 +45,6 @@ Digital Forensics (DFOR) is one of the core domains of cybersecurity that focuse
 ---
 
 
-
 ## Chapter 1 — Introduction to Digital Forensics
 
 ### Definition of Digital Forensics
@@ -54,18 +53,17 @@ Digital Forensics is a branch of forensic science that focuses on the identifica
 
 Digital forensics is concerned with recovering and analyzing evidence from various digital sources such as Computers and laptops, Mobile devices and smartphones,Hard drives and storage devices, Network devices, Cloud platforms, Internet browsers, Email systems, Social media platforms such as WhatsApp, IoT devices , and databases
 
+Several organizations have provided definitions of digital forensics:
+
 **National Institute of Standards and Technology (NIST)** defines digital forensics as:
 
 “The application of science to the identification, collection, examination, and analysis of data while preserving the integrity of the information and maintaining a strict chain of custody.”
 
-This definition emphasizes:
+This definition emphasizes scientific investigation, evidence integrity, Proper handling procedures and documentation.
 
-Scientific investigation
-Evidence integrity
-Proper handling procedures
-Documentation
-Digital Forensics Research Workshop (DFRWS)
+**Digital Forensics Research Workshop (DFRWS)** defines digital forensics as:
 
+“The use of scientifically derived and proven methods toward the preservation, collection, validation, identification, analysis, interpretation, documentation, and presentation of evidence derived from digital sources.”
 
 
 
