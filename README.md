@@ -112,34 +112,34 @@ The main types of digital forensics include:
 
 Computer forensics focuses on investigating computers such as desktops, laptops, and storage devices. It involves recovering deleted files, analyzing operating system activities, examining user activities and finding evidence related to cybercrimes.
 
-## 2. Network Forensics
+### 2. Network Forensics
 
 Network forensics involves monitoring and analyzing network traffic to identify security incidents. It helps to detect cyberattacks., identify unauthorized access, investigate data breaches and analyze communication between devices.
 
-## 3. Mobile Device Forensics
+### 3. Mobile Device Forensics
 
 Mobile device forensics focuses on extracting and analyzing evidence from smartphones, tablets, and SIM cards. It can recover text messages, call logs, contacts, photos and videos,  GPS location data, and application information.
 
-## 4. Database Forensics
+### 4. Database Forensics
 
 Database forensics investigates databases to identify unauthorized access, modifications, or data manipulation. It involves analyzing matabase records, transaction logs, user activities and etadata.
 
 
-## 5. Cloud Forensics
+### 5. Cloud Forensics
 
 Cloud forensics focuses on collecting and analyzing evidence stored in cloud environments. It investigates cloud storage, cloud applications, virtual machines and cloud user activities.
 
 
-## 6. Email Forensics
+### 6. Email Forensics
 
 Email forensics examines email communication to identify evidence related to cyber incidents. It analyzes email messages, email headers, attachments, Sender and receiver information.
 
-## 8. Malware Forensics
+### 8. Malware Forensics
 
 Malware forensics focuses on investigating malicious software and understanding its behavior. It helps determine How malware operates,  How malware spreads, the damage caused by malware, and methods used by attackers.
 
 
-## 9. IoT (Internet of Things) Forensics
+### 9. IoT (Internet of Things) Forensics
 
 IoT forensics investigates smart and connected devices to collect digital evidence. It retrieves device logs, user activities, communication records and sensor data.
 
@@ -154,21 +154,75 @@ IoT forensics investigates smart and connected devices to collect digital eviden
 | Database Forensics | Database records and logs |
 | Cloud Forensics | Cloud services and storage |
 | Email Forensics | Email messages and headers |
-| Memory Forensics | RAM and live system data |
 | Malware Forensics | Malicious software analysis |
 | IoT Forensics | Smart and connected devices |
 
 ---
 
-## Importance of Digital Forensics Types
+## Principles of Digital Forensics
 
-These different areas of digital forensics help organizations and investigators to:
+Digital forensics follows scientific principles that ensure digital evidence is **collected, preserved, analyzed, and presented correctly**. These principles help investigators maintain the reliability and legal acceptance of digital evidence.
 
-- Investigate cybercrimes.
-- Recover lost or deleted information.
-- Respond to security incidents.
-- Identify attackers.
-- Provide digital evidence for legal investigations.
+### 1. Locard’s Exchange Principle
+
+Locard’s Exchange Principle states that:
+
+> **"Every contact leaves a trace."**
+
+Whenever a person, device, or system interacts with another, some form of evidence is created or exchanged. This implies that digital activities leave traces such as:
+
+- Browser history
+- Login records
+- Deleted files
+- IP addresses
+- System logs
+- File metadata
+
+### Example
+
+A hacker accessing a server may leave evidence such as login timestamps, malware files, network activity records e.t.c.
+
+
+### 2. Principle of Individuality
+
+The Principle of Individuality states that:
+
+> **Every piece of evidence has unique characteristics that can identify it.**
+
+Two files may have the same name, but their hash values can prove whether they are identical or different. It helps to verify the identity and authenticity of digital evidence.
+
+
+### 3. Principle of Exchange
+
+The Principle of Exchange states that:
+
+> **When an interaction occurs, information or digital evidence is transferred between systems.**
+
+### Example
+
+Sending a file through email creates evidence such as sender information, receiver information, date and time and file metadata. It helps investigators reconstruct communication and activities.
+
+
+### 4. Principle of Probability
+
+The Principle of Probability states that:
+
+> **Forensic conclusions are based on the likelihood that evidence supports a specific explanation.**
+
+### Example
+
+A computer mainly used by one employee has a higher probability of being connected to that employee's activities. It helps investigators make logical decisions using available evidence.
+
+### 5. Principle of Association
+
+The Principle of Association states that:
+
+> **Evidence can be linked to a person, device, location, or event.**
+
+## Example
+
+A document containing an employee username and creation time can associate that employee with the file. It helps establish relationships between evidence and activities.
+
 
 ## Summary
 
