@@ -1,24 +1,6 @@
-# FOUNDAMENTALS OF DIGITAL FORENSICS
+#  Fundamentals of Digital Forensics
 
-> **Course:** Digital Forensics Fundamentals  
-> **Author:** Madalitso Saulos  
-
----
-
-# 🛡️ Fundamentals of Digital Forensics
-
-> A comprehensive, beginner-to-intermediate guide to Digital Forensics covering theory, practical labs, forensic tools, investigation methodologies, and real-world case studies.
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/fundamentals-digital-forensics?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/fundamentals-digital-forensics?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-![Markdown](https://img.shields.io/badge/Built%20With-Markdown-black?style=for-the-badge)
-
----
-
-## 📖 About This Course
-
-**Fundamentals of Digital Forensics** is an open educational resource designed to teach students, cybersecurity enthusiasts, and IT professionals the fundamental principles of digital forensic investigations.
+> **Fundamentals of Digital Forensics** is an open educational resource designed to teach students, cybersecurity enthusiasts, and IT professionals the fundamental principles of digital forensic investigations.
 
 The course follows internationally accepted forensic methodologies and includes practical exercises using industry-standard forensic tools.
 
@@ -26,23 +8,42 @@ Whether you're preparing for a cybersecurity career, academic coursework, or dig
 
 ---
 
-## 🎯 Course Objectives
+![GitHub stars](https://img.shields.io/github/stars/yourusername/fundamentals-digital-forensics?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/yourusername/fundamentals-digital-forensics?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![Markdown](https://img.shields.io/badge/Built%20With-Markdown-black?style=for-the-badge)
 
-By the end of this course, learners will be able to:
+---
+# 📚 Table of Contents
 
-- Understand Digital Forensics principles
-- Explain the Digital Forensics investigation process
-- Identify different types of digital evidence
-- Preserve and acquire forensic evidence properly
-- Maintain Chain of Custody
-- Perform forensic imaging
-- Verify evidence integrity using hashing
-- Analyze Windows, Linux, Mobile, and Network artifacts
-- Recover deleted files
-- Investigate cyber incidents
-- Produce professional forensic reports
-- Understand legal and ethical considerations
-- Use industry-standard forensic tools
+- [About This Course](#-about-this-course)
+- [Course Objectives](#-course-objectives)
+- [Course Structure](#-course-structure)
+- [Part I — Foundations of Digital Forensics](#part-i--foundations-of-digital-forensics)
+  - [Chapter 1 — Introduction to Digital Forensics](#chapter-1--introduction-to-digital-forensics)
+  - [Chapter 2 — Digital Forensics Investigation Framework](#chapter-2--digital-forensics-investigation-framework)
+  - [Chapter 3 — Cybercrime Fundamentals](#chapter-3--cybercrime-fundamentals)
+  - [Chapter 4 — Digital Evidence](#chapter-4--digital-evidence)
+  - [Chapter 5 — Legal and Ethical Considerations](#chapter-5--legal-and-ethical-considerations)
+- [Part II — Digital Forensics Laboratory](#part-ii--digital-forensics-laboratory)
+  - [Chapter 6 — Setting Up a Forensics Lab](#chapter-6--setting-up-a-forensics-lab)
+  - [Chapter 7 — Forensic Readiness](#chapter-7--forensic-readiness)
+- [Part III — Evidence Acquisition](#part-iii--evidence-acquisition)
+- [Part IV — Storage and File Systems](#part-iv--storage-and-file-systems)
+- [Part V — Operating System Forensics](#part-v--operating-system-forensics)
+- [Part VI — Specialized Digital Forensics](#part-vi--specialized-digital-forensics)
+- [Part VII — Digital Forensics Tools](#part-vii--digital-forensics-tools)
+- [Part VIII — Reporting & Professional Practice](#part-viii--reporting--professional-practice)
+- [Part IX — Emerging Technologies](#part-ix--emerging-technologies)
+- [Part X — Practical Labs](#part-x--practical-labs)
+- [Capstone Project](#chapter-30--capstone-project)
+- [Repository Structure](#-repository-structure)
+- [Recommended Software](#-recommended-software)
+- [Target Audience](#-target-audience)
+- [Learning Format](#-learning-format)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Author](#-author)
 
 ---
 
