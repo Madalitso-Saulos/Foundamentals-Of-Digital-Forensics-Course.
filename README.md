@@ -218,6 +218,7 @@ The Principle of Association states that:
 ## Example
 
 A document containing an employee username and creation time can associate that employee with the file. It helps establish relationships between evidence and activities.
+
 ---
 
 ## Skills Required for Digital Forensics Professionals
@@ -239,11 +240,11 @@ In this chapter, you learned the fundamentals of **Digital Forensics**, includin
 
 This chapter provides the foundation for understanding digital forensics and prepares you for the next chapter on the **Digital Forensics Investigation Process**.
 
------
+---
 
-# End of Chapter 1
+## End of Chapter 1
 
------
+---
 
 
 
