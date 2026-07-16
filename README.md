@@ -53,17 +53,36 @@ Digital Forensics is a branch of forensic science that focuses on the identifica
 
 Digital forensics is concerned with recovering and analyzing evidence from various digital sources such as Computers and laptops, Mobile devices and smartphones,Hard drives and storage devices, Network devices, Cloud platforms, Internet browsers, Email systems, Social media platforms such as WhatsApp, IoT devices , and databases
 
-Several organizations have provided definitions of digital forensics:
+### History and Evolution of Digital Forensics
 
-**National Institute of Standards and Technology (NIST)** defines digital forensics as:
+Digital forensics has developed together with the growth of computers, the internet, mobile devices, and cloud technologies. In the beginning, digital forensics focused mainly on investigating computer crimes. Today, it covers many areas, including computers, networks, smartphones, cloud systems, and smart devices.
 
-“The application of science to the identification, collection, examination, and analysis of data while preserving the integrity of the information and maintaining a strict chain of custody.”
+**Early Computer Forensics (1970s–1980s)**
 
-This definition emphasizes scientific investigation, evidence integrity, Proper handling procedures and documentation.
+Digital forensics started during the early years of computer technology. At that time, computers were mostly used by governments, universities, and large organizations. Since computers were not common, computer crimes were limited.
 
-**Digital Forensics Research Workshop (DFRWS)** defines digital forensics as:
+When crimes happened, investigators manually examined computer systems to find evidence. Early investigations focused on activities such as unauthorized access, data changes, software piracy, and financial fraud.
 
-“The use of scientifically derived and proven methods toward the preservation, collection, validation, identification, analysis, interpretation, documentation, and presentation of evidence derived from digital sources.”
+The field was known as computer forensics because investigations mainly involved desktop computers and their storage devices. During this period, there were few forensic tools and no standard investigation procedures.
+
+**Growth of Computer Crime (1990s)**
+
+In the 1990s, personal computers and the internet became widely available. This led to an increase in cybercrimes such as hacking, malware attacks, email fraud, identity theft, and online scams.
+
+Because of the growth of digital crime, law enforcement agencies and organizations started creating specialized computer forensic teams and laboratories. During this period, important developments included:
+
+- Creation of digital forensic tools such as EnCase, FTK (Forensic Toolkit), and The Coroner’s Toolkit (TCT)
+- Development of evidence collection procedures
+- Establishment of forensic laboratories
+
+**Internet and Network Forensics Era (2000s)**
+
+The growth of the internet in the 2000s changed digital forensics. Investigators began examining not only computers but also networks and online activities.They started analyzing network traffic, Server logs,Emails,Websites and other digital platforms. This expanded digitla forensics into new areas such as Network forensics, Database forensics, Malware analysis and others.
+
+**Mobile and Cloud Forensics Era (2010–Present)**
+
+The increased use of smartphones, cloud services, and smart devices created new challenges for digital investigators. Modern digital forensics now involves collecting evidence from many types of devices and platforms. It expands the digital forensics field into subsets like cloud Forensics, IoT Forensics and Machine Learning and Artificial Intelligence in Digital Forensics.
+
 
 
 
