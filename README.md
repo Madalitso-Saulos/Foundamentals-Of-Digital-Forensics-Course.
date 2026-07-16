@@ -5,6 +5,375 @@
 
 ---
 
+# 🛡️ Fundamentals of Digital Forensics
+
+> A comprehensive, beginner-to-intermediate guide to Digital Forensics covering theory, practical labs, forensic tools, investigation methodologies, and real-world case studies.
+
+![GitHub stars](https://img.shields.io/github/stars/yourusername/fundamentals-digital-forensics?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/yourusername/fundamentals-digital-forensics?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![Markdown](https://img.shields.io/badge/Built%20With-Markdown-black?style=for-the-badge)
+
+---
+
+## 📖 About This Course
+
+**Fundamentals of Digital Forensics** is an open educational resource designed to teach students, cybersecurity enthusiasts, and IT professionals the fundamental principles of digital forensic investigations.
+
+The course follows internationally accepted forensic methodologies and includes practical exercises using industry-standard forensic tools.
+
+Whether you're preparing for a cybersecurity career, academic coursework, or digital forensic investigations, this repository provides structured learning materials from basic concepts to advanced forensic techniques.
+
+---
+
+## 🎯 Course Objectives
+
+By the end of this course, learners will be able to:
+
+- Understand Digital Forensics principles
+- Explain the Digital Forensics investigation process
+- Identify different types of digital evidence
+- Preserve and acquire forensic evidence properly
+- Maintain Chain of Custody
+- Perform forensic imaging
+- Verify evidence integrity using hashing
+- Analyze Windows, Linux, Mobile, and Network artifacts
+- Recover deleted files
+- Investigate cyber incidents
+- Produce professional forensic reports
+- Understand legal and ethical considerations
+- Use industry-standard forensic tools
+
+---
+
+# 📚 Course Structure
+
+## Part I — Foundations of Digital Forensics
+
+### Chapter 1 — Introduction to Digital Forensics
+- What is Digital Forensics?
+- History and Evolution
+- Importance of Digital Forensics
+- Objectives
+- Scope
+- Applications
+- Career Opportunities
+
+### Chapter 2 — Digital Forensics Investigation Framework
+- Investigation Lifecycle
+- Identification
+- Preservation
+- Collection
+- Examination
+- Analysis
+- Reporting
+
+### Chapter 3 — Cybercrime Fundamentals
+- Introduction to Cybercrime
+- Types of Cybercrime
+- Digital Evidence
+- Common Attack Methods
+- Real-world Cases
+
+### Chapter 4 — Digital Evidence
+- Types of Evidence
+- Sources
+- Characteristics
+- Volatile vs Non-Volatile Evidence
+- Challenges
+
+### Chapter 5 — Legal and Ethical Considerations
+- Search Warrants
+- Chain of Custody
+- Evidence Admissibility
+- Privacy
+- Ethics
+
+---
+
+# 🧪 Part II — Digital Forensics Laboratory
+
+### Chapter 6 — Setting Up a Forensics Lab
+
+### Chapter 7 — Forensic Readiness
+
+---
+
+# 💾 Part III — Evidence Acquisition
+
+### Chapter 8 — Evidence Acquisition Techniques
+
+### Chapter 9 — Forensic Imaging
+
+### Chapter 10 — Hashing and Integrity Verification
+
+---
+
+# 💽 Part IV — Storage and File Systems
+
+### Chapter 11 — Storage Devices
+
+### Chapter 12 — File Systems
+- FAT
+- FAT32
+- exFAT
+- NTFS
+- EXT4
+- APFS
+
+---
+
+# 🖥️ Part V — Operating System Forensics
+
+### Chapter 13 — Windows Forensics
+
+### Chapter 14 — Linux Forensics
+
+### Chapter 15 — macOS Forensics
+
+---
+
+# 📱 Part VI — Specialized Digital Forensics
+
+### Chapter 16 — Memory Forensics
+
+### Chapter 17 — Network Forensics
+
+### Chapter 18 — Email Forensics
+
+### Chapter 19 — Browser & Internet Forensics
+
+### Chapter 20 — Mobile Device Forensics
+
+### Chapter 21 — Cloud Forensics
+
+### Chapter 22 — Database Forensics
+
+### Chapter 23 — Malware Forensics
+
+---
+
+# 🛠️ Part VII — Digital Forensics Tools
+
+### Chapter 24 — Open Source Tools
+
+- Autopsy
+- Sleuth Kit
+- Volatility
+- Wireshark
+- Bulk Extractor
+- Guymager
+
+### Chapter 25 — Commercial Tools
+
+- EnCase
+- FTK
+- Magnet AXIOM
+- Cellebrite
+- X-Ways
+
+---
+
+# 📝 Part VIII — Reporting & Professional Practice
+
+### Chapter 26 — Digital Forensic Reporting
+
+### Chapter 27 — Presenting Digital Evidence
+
+---
+
+# 🚀 Part IX — Emerging Technologies
+
+### Chapter 28 — Emerging Trends
+
+- Artificial Intelligence
+- Cloud Forensics
+- IoT Forensics
+- Drone Forensics
+- Vehicle Forensics
+- Cryptocurrency Investigations
+- Blockchain Forensics
+- DFaaS
+
+---
+
+# 🔬 Part X — Practical Labs
+
+### Chapter 29 — Laboratory Exercises
+
+- Lab 1 – Building a Digital Forensics Lab
+- Lab 2 – Creating Disk Images
+- Lab 3 – Hash Verification
+- Lab 4 – File Recovery
+- Lab 5 – Windows Registry Analysis
+- Lab 6 – Browser Artifact Analysis
+- Lab 7 – Packet Capture with Wireshark
+- Lab 8 – RAM Analysis
+- Lab 9 – Mobile Device Investigation
+- Lab 10 – Writing a Forensic Report
+
+---
+
+# 🎓 Chapter 30 — Capstone Project
+
+A complete end-to-end digital forensic investigation involving:
+
+- Case Planning
+- Evidence Collection
+- Acquisition
+- Analysis
+- Timeline Reconstruction
+- Report Writing
+- Presentation
+
+---
+
+# 📂 Repository Structure
+
+```text
+Fundamentals-Digital-Forensics/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── Chapters/
+│   ├── Chapter01-Introduction/
+│   ├── Chapter02-Investigation-Framework/
+│   ├── Chapter03-Cybercrime/
+│   ├── Chapter04-Digital-Evidence/
+│   ├── Chapter05-Legal-Ethics/
+│   ├── Chapter06-Forensics-Lab/
+│   ├── Chapter07-Forensic-Readiness/
+│   ├── Chapter08-Evidence-Acquisition/
+│   ├── Chapter09-Forensic-Imaging/
+│   ├── Chapter10-Hashing/
+│   ├── Chapter11-Storage/
+│   ├── Chapter12-File-Systems/
+│   ├── Chapter13-Windows/
+│   ├── Chapter14-Linux/
+│   ├── Chapter15-macOS/
+│   ├── Chapter16-Memory/
+│   ├── Chapter17-Network/
+│   ├── Chapter18-Email/
+│   ├── Chapter19-Browser/
+│   ├── Chapter20-Mobile/
+│   ├── Chapter21-Cloud/
+│   ├── Chapter22-Database/
+│   ├── Chapter23-Malware/
+│   ├── Chapter24-OpenSource-Tools/
+│   ├── Chapter25-Commercial-Tools/
+│   ├── Chapter26-Reporting/
+│   ├── Chapter27-Courtroom/
+│   ├── Chapter28-Emerging-Technologies/
+│   ├── Chapter29-Labs/
+│   └── Chapter30-Capstone/
+│
+├── Labs/
+│
+├── Images/
+│
+├── CaseStudies/
+│
+├── Tools/
+│
+└── Resources/
+```
+
+---
+
+# 🛠 Recommended Software
+
+- Autopsy
+- FTK Imager
+- Wireshark
+- Volatility
+- Sleuth Kit
+- Magnet AXIOM
+- EnCase
+- Cellebrite
+- Guymager
+- Kali Linux
+- CAINE Linux
+- SIFT Workstation
+
+---
+
+# 👨‍💻 Target Audience
+
+- Computer Science Students
+- Cybersecurity Students
+- Digital Forensics Students
+- Ethical Hackers
+- SOC Analysts
+- Incident Responders
+- Law Enforcement Officers
+- Security Researchers
+- IT Professionals
+
+---
+
+# 📖 Learning Format
+
+Each chapter contains:
+
+- 📚 Learning Objectives
+- 📖 Theory Notes
+- 💡 Examples
+- 🖼️ Diagrams
+- 🧪 Hands-on Labs
+- 📝 Exercises
+- ❓ Quiz Questions
+- 📚 References
+
+---
+
+# 🤝 Contributing
+
+Contributions are welcome!
+
+You can contribute by:
+
+- Improving documentation
+- Fixing errors
+- Adding forensic labs
+- Creating diagrams
+- Updating forensic tools
+- Adding case studies
+
+---
+
+# ⭐ Support the Project
+
+If you find this repository useful, please consider:
+
+⭐ Starring the repository
+
+🍴 Forking the project
+
+🛠️ Contributing improvements
+
+📢 Sharing it with others
+
+---
+
+# 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 👨‍💻 Author
+
+**Madalitso Saulos**
+
+**Computer Systems & Security Student**
+**Digital Forensics Enthusiast**
+**Cybersecurity Researcher**
+**Software Developer**
+
+> *"Preserving digital evidence with integrity, uncovering the truth through forensic science."*
+
 ##  Course Overview
 
 Digital Forensics (DFOR) is one of the core domains of cybersecurity that focuses on identifying, collecting, preserving, analyzing, and presenting digital evidence in a manner that is legally acceptable. It combines computer science, cybersecurity, criminal investigation, and law to investigate cybercrimes and security incidents. Modern digital forensics courses generally cover digital evidence, investigation methodology, legal considerations, forensic tools, file systems, mobile devices, networks, cloud environments, reporting, and courtroom procedures
