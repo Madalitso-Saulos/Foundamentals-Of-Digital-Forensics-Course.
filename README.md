@@ -76,7 +76,7 @@ By the end of this course, you will be able to:
 
 # Chapter 1 — Introduction to Digital Forensics
 
-### Definition of Digital Forensics
+## Definition
 
 Digital Forensics is a branch of forensic science that focuses on the identification, preservation, collection, examination, analysis, and presentation of digital evidence obtained from electronic devices and digital systems. It involves the use of scientific methods, specialized tools, and investigative procedures to uncover information that can be used in criminal investigations, cybersecurity incidents, legal proceedings, and organizational security assessments.
 
