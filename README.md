@@ -4,14 +4,16 @@
 
 ---
 
+> *"Preserving digital evidence with integrity, uncovering the truth through forensic science."*
+
 ![GitHub stars](https://img.shields.io/github/stars/yourusername/fundamentals-digital-forensics?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/yourusername/fundamentals-digital-forensics?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/Built%20With-Markdown-black?style=for-the-badge)
 
 ---
-<details>
-<summary><strong> Table of Contents (Click to Expand)</strong></summary>
+
+# Table of Contents
   
 - [Course Objectives](#-course-objectives)
 - [Chapter 1 — Introduction to Digital Forensics](#chapter-1--introduction-to-digital-forensics)
@@ -32,14 +34,13 @@
 - [Contributing](#-contributing)
 - [License](#-license)
 - [Author](#-author)
-- 
-</details>
+  
 ---
 
-#  Course Objectives
+# Course Objectives
 
 
-## Part I — Foundations of Digital Forensics
+# Chapter 1 — Introduction to Digital Forensics
 
 ### Chapter 1 — Introduction to Digital Forensics
 - What is Digital Forensics?
@@ -363,7 +364,7 @@ This project is licensed under the **MIT License**.
 **Cybersecurity Researcher**
 **Software Developer**
 
-> *"Preserving digital evidence with integrity, uncovering the truth through forensic science."*
+
 
 ##  Course Overview
 
