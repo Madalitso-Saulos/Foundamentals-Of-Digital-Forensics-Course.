@@ -1,6 +1,6 @@
 # Chapter 6 — Email Forensics
 
-[⬅ Chapter 5 — Legal and Ethical Considerations](../05-legal-and-ethical-considerations/README.md) | [Back to Course Home](../../README.md) | [Next Chapter ➡](../07-network-forensics/README.md)
+[⬅ Chapter 5 — Legal and Ethical Considerations](../05-legal-and-ethical-considerations/README.md) | [Back to Course Home](../README.md) | [Next Chapter ➡](../07-network-forensics/README.md)
 
 ---
 
