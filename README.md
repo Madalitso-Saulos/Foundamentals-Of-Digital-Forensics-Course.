@@ -13,44 +13,6 @@
 
 ---
 
-## Repository Structure
-
-Each chapter of the course lives in its own folder under [`chapters/`](chapters/), with its own `README.md`. This makes it easy to browse, contribute to, or extend a single chapter without touching the rest of the course.
-
-```
-fundamentals-digital-forensics/
-├── README.md
-├── LICENSE
-└── chapters/
-    ├── 01-introduction-to-digital-forensics/
-    │   └── README.md
-    ├── 02-digital-forensics-investigation-process/
-    │   └── README.md
-    ├── 03-cybercrime-fundamentals/
-    │   └── README.md
-    ├── 04-digital-evidence/
-    │   └── README.md
-    ├── 05-legal-and-ethical-considerations/
-    │   └── README.md
-    ├── 06-email-forensics/
-    │   └── README.md
-    ├── 07-network-forensics/
-    │   └── README.md
-    ├── 08-windows-forensics/
-    │   └── README.md
-    ├── 09-malware-forensics/
-    │   └── README.md
-    ├── 10-cloud-forensics/
-    │   └── README.md
-    ├── 11-anti-forensics/
-    │   └── README.md
-    ├── 12-machine-learning-and-ai-in-digital-forensics/
-    │   └── README.md
-    ├── 13-professional-reporting-and-presentation/
-    │   └── README.md
-    └── 14-digital-forensics-tools/
-        └── README.md
-```
 
 ---
 
