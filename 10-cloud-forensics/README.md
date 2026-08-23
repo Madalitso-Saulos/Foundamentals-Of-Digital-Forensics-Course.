@@ -1,6 +1,6 @@
 # Chapter 10 — Cloud Forensics
 
-[⬅ Chapter 9 — Malware Forensics](../09-malware-forensics/README.md) | [Back to Course Home](../../README.md) | [Next Chapter ➡](../11-anti-forensics/README.md)
+[⬅ Chapter 9 — Malware Forensics](../09-malware-forensics/README.md) | [Back to Course Home](../README.md) | [Next Chapter ➡](../11-anti-forensics/README.md)
 
 ---
 
