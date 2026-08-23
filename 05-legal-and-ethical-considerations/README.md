@@ -1,6 +1,6 @@
 # Chapter 5 — Legal and Ethical Considerations
 
-[⬅ Chapter 4 — Digital Evidence](../04-digital-evidence/README.md) | [Back to Course Home](../../README.md) | [Next Chapter ➡](../06-email-forensics/README.md)
+[⬅ Chapter 4 — Digital Evidence](../04-digital-evidence/README.md) | [Back to Course Home](../README.md) | [Next Chapter ➡](../06-email-forensics/README.md)
 
 ---
 
