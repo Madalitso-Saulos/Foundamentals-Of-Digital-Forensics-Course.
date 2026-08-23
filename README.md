@@ -14,8 +14,6 @@
 ---
 
 
----
-
 ## Table of Contents
 
 - [Course Overview](#course-overview)
@@ -77,29 +75,6 @@ By the end of this course, you will be able to:
 
 ---
 
-## Status of Chapters
-
-| Chapter | Status |
-|---|---|
-| 1 — Introduction to Digital Forensics | ✅ Complete |
-| 2 — Digital Forensics Investigation Process | 📝 Draft / To be expanded |
-| 3 — Cybercrime Fundamentals | 📝 Draft / To be expanded |
-| 4 — Digital Evidence | 📝 Draft / To be expanded |
-| 5 — Legal and Ethical Considerations | 📝 Draft / To be expanded |
-| 6 — Email Forensics | 📝 Draft / To be expanded |
-| 7 — Network Forensics | 📝 Draft / To be expanded |
-| 8 — Windows Forensics | 📝 Draft / To be expanded |
-| 9 — Malware Forensics | 📝 Draft / To be expanded |
-| 10 — Cloud Forensics | 📝 Draft / To be expanded |
-| 11 — Anti-Forensics | 📝 Draft / To be expanded |
-| 12 — Machine Learning and AI in Digital Forensics | 📝 Draft / To be expanded |
-| 13 — Professional Reporting and Presentation | 📝 Draft / To be expanded |
-| 14 — Digital Forensics Tools | 📝 Draft / To be expanded |
-
-> Only **Chapter 1** currently contains full course content (as provided in the original course material). The remaining chapters have been scaffolded with a consistent structure (Objectives, Overview, Key Topics, Summary, Further Reading) based on the course's table of contents, ready for content to be added.
-
----
-
 ## References
 
 1. National Institute of Standards and Technology (NIST). (2006). **Guide to Integrating Forensic Techniques into Incident Response (NIST Special Publication 800-86).** Available at: https://www.nist.gov/
@@ -140,5 +115,6 @@ See [LICENSE](LICENSE) for details.
 
 **Madalitso Saulos**
 
-Computer Systems & Security Student
+Computer Systems & Security Student at Malawi University of Science & Technology
+
 Cybersecurity Enthusiast | Digital Forensics | Software Developer
