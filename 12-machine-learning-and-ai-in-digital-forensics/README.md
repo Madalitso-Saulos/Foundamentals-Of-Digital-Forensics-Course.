@@ -1,6 +1,6 @@
 # Chapter 12 — Machine Learning and Artificial Intelligence in Digital Forensics
 
-[⬅ Chapter 11 — Anti-Forensics](../11-anti-forensics/README.md) | [Back to Course Home](../../README.md) | [Next Chapter ➡](../13-professional-reporting-and-presentation/README.md)
+[⬅ Chapter 11 — Anti-Forensics](../11-anti-forensics/README.md) | [Back to Course Home](../README.md) | [Next Chapter ➡](../13-professional-reporting-and-presentation/README.md)
 
 ---
 
