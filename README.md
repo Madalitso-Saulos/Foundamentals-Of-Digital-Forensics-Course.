@@ -1,4 +1,6 @@
-# Fundamentals of Digital Forensics
+<p align="center">
+  <img src="DFOR_bunner.png" alt="Cyber200Forge" width="100%">
+</p>
 
 > **Fundamentals of Digital Forensics** is an open educational resource designed to teach students, cybersecurity enthusiasts, and IT professionals the fundamental principles of digital forensic investigations. The course follows internationally accepted forensic methodologies and includes practical exercises using industry-standard forensic tools. Whether you're preparing for a cybersecurity career, academic coursework, or digital forensic investigations, this repository provides structured learning materials from basic concepts to advanced forensic techniques.
 
