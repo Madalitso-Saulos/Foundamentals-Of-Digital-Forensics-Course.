@@ -1,6 +1,6 @@
 # Chapter 7 — Network Forensics
 
-[⬅ Chapter 6 — Email Forensics](../06-email-forensics/README.md) | [Back to Course Home](../../README.md) | [Next Chapter ➡](../08-windows-forensics/README.md)
+[⬅ Chapter 6 — Email Forensics](../06-email-forensics/README.md) | [Back to Course Home](../README.md) | [Next Chapter ➡](../08-windows-forensics/README.md)
 
 ---
 
