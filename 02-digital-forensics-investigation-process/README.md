@@ -1,6 +1,6 @@
 # Chapter 2 — Digital Forensics Investigation Process
 
-[⬅ Chapter 1 — Introduction to Digital Forensics](../01-introduction-to-digital-forensics/README.md) | [Back to Course Home](../../README.md) | [Next Chapter ➡](../03-cybercrime-fundamentals/README.md)
+[⬅ Chapter 1 — Introduction to Digital Forensics](../01-introduction-to-digital-forensics/README.md) | [Back to Course Home](../README.md) | [Next Chapter ➡](../03-cybercrime-fundamentals/README.md)
 
 ---
 
