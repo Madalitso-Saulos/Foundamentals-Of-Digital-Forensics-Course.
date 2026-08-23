@@ -1,6 +1,6 @@
 # Chapter 8 — Windows Forensics
 
-[⬅ Chapter 7 — Network Forensics](../07-network-forensics/README.md) | [Back to Course Home](../../README.md) | [Next Chapter ➡](../09-malware-forensics/README.md)
+[⬅ Chapter 7 — Network Forensics](../07-network-forensics/README.md) | [Back to Course Home](../README.md) | [Next Chapter ➡](../09-malware-forensics/README.md)
 
 ---
 
