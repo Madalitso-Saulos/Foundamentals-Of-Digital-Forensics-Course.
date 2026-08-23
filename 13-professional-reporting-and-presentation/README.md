@@ -1,6 +1,6 @@
 # Chapter 13 — Professional Reporting and Presentation
 
-[⬅ Chapter 12 — Machine Learning and Artificial Intelligence in Digital Forensics](../12-machine-learning-and-ai-in-digital-forensics/README.md) | [Back to Course Home](../../README.md) | [Next Chapter ➡](../14-digital-forensics-tools/README.md)
+[⬅ Chapter 12 — Machine Learning and Artificial Intelligence in Digital Forensics](../12-machine-learning-and-ai-in-digital-forensics/README.md) | [Back to Course Home](../README.md) | [Next Chapter ➡](../14-digital-forensics-tools/README.md)
 
 ---
 
