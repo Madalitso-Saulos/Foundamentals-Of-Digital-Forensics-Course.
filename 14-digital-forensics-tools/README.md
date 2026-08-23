@@ -1,6 +1,6 @@
 # Chapter 14 — Digital Forensics Tools
 
-[⬅ Chapter 13 — Professional Reporting and Presentation](../13-professional-reporting-and-presentation/README.md) | [Back to Course Home](../../README.md)
+[⬅ Chapter 13 — Professional Reporting and Presentation](../13-professional-reporting-and-presentation/README.md) | [Back to Course Home](../README.md)
 
 ---
 
