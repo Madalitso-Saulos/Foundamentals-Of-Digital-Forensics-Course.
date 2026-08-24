@@ -191,4 +191,4 @@ This chapter provides the foundation for understanding digital forensics and pre
 
 ---
 
-[⬅ Back to Course Home](../../README.md) | [Next Chapter ➡](../02-digital-forensics-investigation-process/README.md)
+ [Next Chapter ➡](../02-digital-forensics-investigation-process/README.md)
