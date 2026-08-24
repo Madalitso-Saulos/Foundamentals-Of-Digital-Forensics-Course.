@@ -13,19 +13,6 @@ Identification → Preservation → Collection/Acquisition → Examination → A
 
 ---
 
-## Table of Contents
-
-1. [Identification](#1-identification)
-2. [Preservation](#2-preservation)
-3. [Collection / Acquisition](#3-collection--acquisition)
-4. [Examination](#4-examination)
-5. [Analysis](#5-analysis)
-6. [Reporting](#6-reporting)
-7. [Chapter Summary](#chapter-summary)
-8. [References](#references)
-
----
-
 ## 1. Identification
 
 Identification is the first stage of a digital forensic investigation. It involves determining what happened, what evidence may exist, and where that evidence can be found.
