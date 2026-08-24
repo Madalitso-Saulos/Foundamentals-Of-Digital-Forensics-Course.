@@ -88,7 +88,7 @@ By the end of this course, you will be able to:
 7. Digital Forensics Research Workshop (DFRWS). **Digital Forensics Research Resources and Publications.** Available at: https://dfrws.org/
 8. Kent, K., Chevalier, S., Grance, T., & Dang, H. (2006). **Guide to Integrating Forensic Techniques into Incident Response.** NIST Special Publication 800-86. National Institute of Standards and Technology.
 
---
+---
 
 ## Contributing
 
@@ -101,7 +101,7 @@ Contributions are welcome! If you'd like to help expand a chapter, fix an error,
 
 Please keep contributions educational, well-cited, and consistent with the existing chapter structure.
 
---
+---
 
 ## License
 
@@ -111,7 +111,7 @@ Feel free to fork, learn, and contribute while providing appropriate attribution
 
 See [LICENSE](LICENSE) for details.
 
---
+---
 ## Author
 
 **Madalitso Saulos** is a Computer Systems & Security student at the **Malawi University of Science & Technology (MUST)** with a strong interest in **Cybersecurity, Digital Forensics, Network Security, and Software Development**. Passionate about hands-on learning, cybersecurity challenges, and building practical technology solutions.
