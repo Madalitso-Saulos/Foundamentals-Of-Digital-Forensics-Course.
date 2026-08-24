@@ -77,19 +77,6 @@ By the end of this course, you will be able to:
 
 ---
 
-## References
-
-1. National Institute of Standards and Technology (NIST). (2006). **Guide to Integrating Forensic Techniques into Incident Response (NIST Special Publication 800-86).** Available at: https://www.nist.gov/
-2. National Institute of Standards and Technology (NIST). (2014). **Computer Security Incident Handling Guide (NIST Special Publication 800-61 Revision 2).** Available at: https://www.nist.gov/
-3. Casey, E. (2011). **Digital Evidence and Computer Crime: Forensic Science, Computers and the Internet (3rd Edition).** Academic Press.
-4. Carrier, B. (2005). **File System Forensic Analysis.** Addison-Wesley Professional.
-5. Nelson, B., Phillips, A., & Steuart, C. (2019). **Guide to Computer Forensics and Investigations (6th Edition).** Cengage Learning.
-6. Sammons, J. (2015). **The Basics of Digital Forensics: The Primer for Getting Started in Digital Forensics.** Syngress.
-7. Digital Forensics Research Workshop (DFRWS). **Digital Forensics Research Resources and Publications.** Available at: https://dfrws.org/
-8. Kent, K., Chevalier, S., Grance, T., & Dang, H. (2006). **Guide to Integrating Forensic Techniques into Incident Response.** NIST Special Publication 800-86. National Institute of Standards and Technology.
-
----
-
 ## Contributing
 
 Contributions are welcome! If you'd like to help expand a chapter, fix an error, or add practical exercises:
