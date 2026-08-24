@@ -115,8 +115,5 @@ See [LICENSE](LICENSE) for details.
 
 ## Author
 
-**Madalitso Saulos**
+**Madalitso Saulos** is a Computer Systems & Security student at the **Malawi University of Science & Technology (MUST)** with a strong interest in **Cybersecurity, Digital Forensics, Network Security, and Software Development**. Passionate about hands-on learning, cybersecurity challenges, and building practical technology solutions.
 
-Computer Systems & Security Student at Malawi University of Science & Technology
-
-Cybersecurity Enthusiast | Digital Forensics | Software Developer
