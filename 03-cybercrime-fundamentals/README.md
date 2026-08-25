@@ -3,7 +3,7 @@
 [⬅ Chapter 2 — Digital Forensics Investigation Process](../02-digital-forensics-investigation-process/README.md) | [Back to Course Home](../README.md) | [Next Chapter ➡](../04-digital-evidence/README.md)
 
 
-## 1. Overview
+## 1. Understanding Cybercrime
 
 Cybercrime refers to criminal activity in which computers, computer networks, digital devices, or online services are used as a **target, tool, or environment** for committing an offence.
 
@@ -16,8 +16,6 @@ For digital forensic investigators, cybercrime is particularly important because
 Digital forensics therefore plays an important role in reconstructing what happened, identifying relevant evidence, establishing timelines, determining how systems were compromised, and supporting legal or organizational decision-making.
 
 ---
-
-# 2. Understanding Cybercrime
 
 ## 2.1 Definition of Cybercrime
 
