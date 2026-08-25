@@ -1164,4 +1164,4 @@ Digital evidence forms the foundation of any digital forensic investigation. Und
 
 ---
 
-[⬅ Chapter 3 — Cybercrime Fundamentals](../03-cybercrime-fundamentals/README.md) | [Back to Course Home](../README.md) | [Next Chapter ➡](../05-legal-and-ethical-considerations/README.md)
+| [Next Chapter ➡](../05-legal-and-ethical-considerations/README.md)
