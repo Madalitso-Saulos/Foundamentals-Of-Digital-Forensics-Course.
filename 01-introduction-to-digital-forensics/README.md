@@ -191,4 +191,18 @@ This chapter provides the foundation for understanding digital forensics and pre
 
 ---
 
+## References
+
+1. Locard, E. (1920). *L'enquête criminelle et les méthodes scientifiques*. Paris: Ernest Flammarion. (Origin of "Every contact leaves a trace.")
+2. Kirk, P. L. (1953). *Crime Investigation: Physical Evidence and the Police Laboratory*. New York: Interscience Publishers.
+3. Zatyko, K. (2007). "Defining Digital Forensics." *Forensic Magazine*.
+4. Zatyko, K., & Bay, J. (2011). "The Digital Forensics Cyber Exchange Principle." *Forensic Magazine*.
+5. National Institute of Standards and Technology (NIST). (2006). *Guide to Integrating Forensic Techniques into Incident Response* (Special Publication 800-86). U.S. Department of Commerce. https://csrc.nist.gov/pubs/sp/800/86/final
+6. Casey, E. (2011). *Digital Evidence and Computer Crime: Forensic Science, Computers, and the Internet* (3rd ed.). Academic Press.
+7. Carrier, B., & Spafford, E. H. (2003). "Getting Physical with the Digital Investigation Process." *International Journal of Digital Evidence*, 2(2).
+8. Al Fahdi, M., et al. (2021). "Research Trends, Challenges, and Emerging Topics of Digital Forensics: A Review of Reviews." *arXiv preprint*. https://arxiv.org/pdf/2108.04634
+9. "Locard's Exchange Principle." *Wikipedia, The Free Encyclopedia*. https://en.wikipedia.org/wiki/Locard%27s_exchange_principle
+
+---
+
  [Next Chapter ➡](../02-digital-forensics-investigation-process/README.md)
