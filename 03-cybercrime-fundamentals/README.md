@@ -2,25 +2,6 @@
 
 [⬅ Chapter 2 — Digital Forensics Investigation Process](../02-digital-forensics-investigation-process/README.md) | [Back to Course Home](../README.md) | [Next Chapter ➡](../04-digital-evidence/README.md)
 
-> **Status:** ✅ Complete — This chapter introduces the fundamental concepts, classifications, categories, motivations, actors, and investigative relevance of cybercrime.
-
----
-
-## Learning Objectives
-
-By the end of this chapter, you should be able to:
-
-* Define cybercrime and distinguish it from conventional crime.
-* Explain the major classifications and categories of cybercrime.
-* Identify common forms of cybercrime and describe how they operate.
-* Explain the motivations behind cybercriminal activities.
-* Identify common cybercriminal profiles and threat actors.
-* Explain the relationship between cybercrime and digital forensics.
-* Recognize common challenges associated with investigating cybercrime.
-* Apply appropriate investigative and forensic concepts when dealing with cybercrime incidents.
-* Understand the importance of ethical, legal, and procedural considerations during cybercrime investigations.
-
----
 
 ## 1. Overview
 
