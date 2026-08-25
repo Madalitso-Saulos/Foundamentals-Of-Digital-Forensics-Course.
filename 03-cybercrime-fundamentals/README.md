@@ -3,7 +3,7 @@
 [⬅ Previous Chapter](../02-digital-forensics-investigation-process/README.md) | [Back to Course Home](../README.md) | [Next Chapter ➡](../04-digital-evidence/README.md)
 
 
-## 1. Understanding Cybercrime
+##  Understanding Cybercrime
 
 Cybercrime refers to criminal activity in which computers, computer networks, digital devices, or online services are used as a **target, tool, or environment** for committing an offence.
 
@@ -17,7 +17,7 @@ Digital forensics therefore plays an important role in reconstructing what happe
 
 ---
 
-## 2.1 Definition of Cybercrime
+##  Definition of Cybercrime
 
 There is no single universally accepted definition of cybercrime. In general, however, cybercrime can be understood as criminal activity involving information and communication technologies.
 
@@ -67,7 +67,7 @@ This distinction is useful because it helps investigators determine what systems
 
 # 3. Characteristics of Cybercrime
 
-Cybercrime differs from many traditional crimes because of the characteristics of digital technology.
+Cybercrime differs from many traditional crimes because of the characteristics of digital technology. These include
 
 ## 3.1 Borderless Nature
 
@@ -800,27 +800,6 @@ Another qualified investigator should be able to understand and, where possible,
 
 ---
 
-# 19. Role of Tools in Cybercrime Investigations
-
-Different tools support different stages of investigation.
-
-| Area              | Example Tools                                            |
-| ----------------- | -------------------------------------------------------- |
-| Disk Forensics    | Autopsy, The Sleuth Kit                                  |
-| Memory Forensics  | Volatility                                               |
-| Network Analysis  | Wireshark                                                |
-| Metadata Analysis | ExifTool                                                 |
-| Mobile Forensics  | ADB, specialized mobile forensic tools                   |
-| Malware Analysis  | Ghidra, sandbox environments                             |
-| Hashing           | SHA-256, MD5                                             |
-| Timeline Analysis | Plaso / log2timeline                                     |
-| File Analysis     | `file`, `strings`, hex editors                           |
-| Web Investigation | Browser developer tools, forensic browser analysis tools |
-
-The choice of tool depends on the evidence source, investigation objectives, operating environment, and legal requirements.
-
----
-
 # 20. Ethical and Legal Considerations
 
 Cybercrime investigations must balance investigative objectives with legal and ethical responsibilities.
@@ -840,76 +819,6 @@ Investigators should only access systems and information when they have appropri
 
 For educational and laboratory activities, techniques should be practiced only on systems that the investigator owns, has explicit permission to test, or that are intentionally provided for security training.
 
----
-
-# 21. Practical Investigation Example
-
-Consider a scenario in which an organization discovers that confidential customer information has been stolen.
-
-A simplified investigation could proceed as follows:
-
-### Step 1 — Identify the Incident
-
-The organization detects suspicious access to a database.
-
-### Step 2 — Preserve Evidence
-
-Investigators preserve relevant:
-
-* Server logs.
-* Firewall logs.
-* Authentication records.
-* Database logs.
-* Endpoint data.
-
-### Step 3 — Acquire Evidence
-
-Relevant forensic copies and logs are collected while maintaining integrity.
-
-### Step 4 — Examine Evidence
-
-Investigators search for:
-
-* Suspicious accounts.
-* Unusual login times.
-* Unknown processes.
-* Malicious files.
-* Network connections.
-
-### Step 5 — Analyze Evidence
-
-Investigators correlate timestamps and events to reconstruct the attack.
-
-They may discover:
-
-```text
-Phishing Email
-      ↓
-Stolen Credentials
-      ↓
-Unauthorized Login
-      ↓
-Privilege Escalation
-      ↓
-Database Access
-      ↓
-Data Collection
-      ↓
-Data Exfiltration
-```
-
-### Step 6 — Report Findings
-
-The investigator documents:
-
-* What happened.
-* When it happened.
-* How access was obtained.
-* What systems were affected.
-* What evidence supports the conclusions.
-* What limitations remain.
-
-This demonstrates how cybercrime concepts connect directly to the digital forensic investigation process.
 
 ---
 
@@ -942,52 +851,9 @@ Cybercriminals have different motivations and capabilities. They may include ind
 
 Cybercrime investigations rely heavily on digital evidence. Computers, smartphones, networks, cloud platforms, databases, applications, and online accounts can all contain evidence that helps investigators reconstruct events.
 
-Digital forensics provides the structured methodology for handling this evidence. The relationship can be summarized as:
-
-```text
-Cybercrime
-    ↓
-Digital Evidence
-    ↓
-Identify
-    ↓
-Preserve
-    ↓
-Acquire
-    ↓
-Examine
-    ↓
-Analyze
-    ↓
-Report
-```
-
 The major challenges include attribution, encryption, anti-forensics, cloud environments, large volumes of data, jurisdictional issues, and rapidly changing technologies.
 
 Successful cybercrime investigations therefore require a combination of **technical knowledge, forensic methodology, critical thinking, documentation, legal awareness, and ethical conduct**.
-
----
-
-# 24. Review Questions
-
-1. What is cybercrime?
-2. Explain the three roles that a computer can play in cybercrime.
-3. What are the major categories of cybercrime?
-4. Explain five common types of cybercrime.
-5. What are the major motivations behind cybercrime?
-6. What is the difference between a virus, worm, Trojan, spyware, and ransomware?
-7. What is phishing and why is it effective?
-8. Who are script kiddies, insiders, hacktivists, and nation-state actors?
-9. How does cybercrime generate digital evidence?
-10. Explain the relationship between cybercrime and digital forensics.
-11. Why is attribution difficult in cybercrime investigations?
-12. What is anti-forensics?
-13. Why can cloud computing complicate digital forensic investigations?
-14. Why is maintaining evidence integrity important?
-15. Explain how a forensic investigator could investigate a data breach.
-16. What ethical and legal considerations should investigators observe?
-17. How can AI and machine learning assist cybercrime investigations?
-18. Why should AI-assisted forensic findings remain explainable and subject to human review?
 
 ---
 
@@ -1019,18 +885,5 @@ Successful cybercrime investigations therefore require a combination of **techni
 
 ---
 
-## Further Reading
-
-For continued study, learners should explore:
-
-* NIST digital forensics and incident-response publications.
-* MITRE ATT&CK techniques and tactics.
-* INTERPOL digital-forensics resources.
-* Europol cybercrime threat assessments.
-* ISO/IEC digital-evidence standards.
-* Practical forensic exercises involving disk, memory, mobile, network, and cloud evidence.
-
----
-
-[⬅ Chapter 2 — Digital Forensics Investigation Process](../02-digital-forensics-investigation-process/README.md) | [Back to Course Home](../README.md) | [Next Chapter ➡](../04-digital-evidence/README.md)
+ [Next Chapter ➡](../04-digital-evidence/README.md)
 
