@@ -79,20 +79,15 @@ Taken together, these principles reinforce a central theme of this course: sound
 
 ---
 
-## Further Reading
-
-See the [main References section](../../README.md#references) in the course README for foundational digital forensics texts. Chapter-specific references and resources are listed below.
-
 ### References
 
 1. National Institute of Standards and Technology (NIST). *Guide to Integrating Forensic Techniques into Incident Response*, Special Publication 800-86.
-
-3. Casey, E. *Digital Evidence and Computer Crime: Forensic Science, Computers, and the Internet*. Academic Press.
-4. Council of Europe. *Convention on Cybercrime* (Budapest Convention), ETS No. 185.
-5. International Association of Computer Investigative Specialists (IACIS) — Code of Ethics and Professional Conduct.
-6. U.S. Department of Justice, Computer Crime and Intellectual Property Section (CCIPS). *Searching and Seizing Computers and Obtaining Electronic Evidence in Criminal Investigations*.
-7. *Daubert v. Merrell Dow Pharmaceuticals, Inc.*, 509 U.S. 579 (1993) — standard for admissibility of expert testimony.
-8. General Data Protection Regulation (GDPR), Regulation (EU) 2016/679 — data protection and privacy principles relevant to evidence handling.
+2. Casey, E. *Digital Evidence and Computer Crime: Forensic Science, Computers, and the Internet*. Academic Press.
+3. Council of Europe. *Convention on Cybercrime* (Budapest Convention), ETS No. 185.
+4. International Association of Computer Investigative Specialists (IACIS) — Code of Ethics and Professional Conduct.
+5. U.S. Department of Justice, Computer Crime and Intellectual Property Section (CCIPS). *Searching and Seizing Computers and Obtaining Electronic Evidence in Criminal Investigations*.
+6. *Daubert v. Merrell Dow Pharmaceuticals, Inc.*, 509 U.S. 579 (1993) — standard for admissibility of expert testimony.
+7. General Data Protection Regulation (GDPR), Regulation (EU) 2016/679 — data protection and privacy principles relevant to evidence handling.
 
 ---
 
