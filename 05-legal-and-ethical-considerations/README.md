@@ -86,7 +86,7 @@ See the [main References section](../../README.md#references) in the course READ
 ### References
 
 1. National Institute of Standards and Technology (NIST). *Guide to Integrating Forensic Techniques into Incident Response*, Special Publication 800-86.
-2. ISO/IEC 27037:2012 — *Guidelines for identification, collection, acquisition, and preservation of digital evidence*.
+
 3. Casey, E. *Digital Evidence and Computer Crime: Forensic Science, Computers, and the Internet*. Academic Press.
 4. Council of Europe. *Convention on Cybercrime* (Budapest Convention), ETS No. 185.
 5. International Association of Computer Investigative Specialists (IACIS) — Code of Ethics and Professional Conduct.
