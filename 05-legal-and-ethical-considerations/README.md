@@ -45,5 +45,4 @@ This chapter explores the legal frameworks and ethical responsibilities that gov
 See the [main References section](../../README.md#references) in the course README for foundational digital forensics texts. Chapter-specific references and resources can be added here as this chapter is developed.
 
 ---
-
-[⬅ Chapter 4 — Digital Evidence](../04-digital-evidence/README.md) | [Back to Course Home](../../README.md) | [Next Chapter ➡](../06-email-forensics/README.md)
+[Next Chapter ➡](../06-email-forensics/README.md)
