@@ -727,29 +727,24 @@ A reliable email investigation requires careful preservation of evidence, comple
 
 2. Resnick, P. (2008). *Internet Message Format*. RFC 5322. Internet Engineering Task Force (IETF).
 
-3. Myers, J., & Rose, M. (1996). *Post Office Protocol – Version 3*. RFC 1939. Internet Engineering Task Force (IETF).
+3.  Melnikov, A., & Cridland, A. (2013). *Internet Message Access Protocol – Version 4rev1*. RFC 3501. Internet Engineering Task Force (IETF).
 
-4. Melnikov, A., & Cridland, A. (2013). *Internet Message Access Protocol – Version 4rev1*. RFC 3501. Internet Engineering Task Force (IETF).
+4. Kitterman, S. (2014). *Sender Policy Framework (SPF) for Authorizing Use of Domains in Email, Version 1*. RFC 7208. Internet Engineering Task Force (IETF).
 
-5. Kitterman, S. (2014). *Sender Policy Framework (SPF) for Authorizing Use of Domains in Email, Version 1*. RFC 7208. Internet Engineering Task Force (IETF).
+5. Crocker, D., Hansen, T., & Kucherawy, M. (2011). *DomainKeys Identified Mail (DKIM) Signatures*. RFC 6376. Internet Engineering Task Force (IETF).
 
-6. Crocker, D., Hansen, T., & Kucherawy, M. (2011). *DomainKeys Identified Mail (DKIM) Signatures*. RFC 6376. Internet Engineering Task Force (IETF).
+6. Kucherawy, M., & Zwicky, E. (2015). *Domain-based Message Authentication, Reporting, and Conformance (DMARC)*. RFC 7489. Internet Engineering Task Force (IETF).
 
-7. Kucherawy, M., & Zwicky, E. (2015). *Domain-based Message Authentication, Reporting, and Conformance (DMARC)*. RFC 7489. Internet Engineering Task Force (IETF).
+7. National Institute of Standards and Technology (NIST). *Guide to Integrating Forensic Techniques into Incident Response*. NIST Special Publication 800-86.
 
-8. National Institute of Standards and Technology (NIST). *Guide to Integrating Forensic Techniques into Incident Response*. NIST Special Publication 800-86.
+8. National Institute of Standards and Technology (NIST). *Guidelines on Mobile Device Forensics*. NIST Special Publication 800-101.
 
-9. National Institute of Standards and Technology (NIST). *Guidelines on Mobile Device Forensics*. NIST Special Publication 800-101.
+9. Casey, E. (2011). *Digital Evidence and Computer Crime: Forensic Science, Computers, and the Internet* (3rd ed.). Academic Press.
 
-10. Casey, E. (2011). *Digital Evidence and Computer Crime: Forensic Science, Computers, and the Internet* (3rd ed.). Academic Press.
+10. Carrier, B. (2005). *File System Forensic Analysis*. Addison-Wesley.
 
-11. Carrier, B. (2005). *File System Forensic Analysis*. Addison-Wesley.
+11. Garfinkel, S. (2010). Digital forensics research: The next 10 years. *Digital Investigation, 7*, S64–S73.
 
-12. Garfinkel, S. (2010). Digital forensics research: The next 10 years. *Digital Investigation, 7*, S64–S73.
-
-13. MITRE. *ATT&CK: Phishing (T1566)*. MITRE ATT&CK knowledge base.
-
-14. Anti-Phishing Working Group (APWG). *Phishing Activity Trends Reports*.
 
 ---
 
