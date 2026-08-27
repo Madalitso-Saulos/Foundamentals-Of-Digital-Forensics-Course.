@@ -73,9 +73,7 @@ Digital evidence often resides on servers, cloud platforms, or devices located o
 
 ## Chapter Summary
 
-Legal and ethical considerations are not a peripheral concern in digital forensics — they are foundational to the validity of an investigation's results. Technically flawless analysis can be rendered useless if evidence was obtained without proper legal authority, if chain of custody was broken, or if the investigator acted outside the bounds of professional ethics. This chapter has outlined the core legal instruments governing search, seizure, and privacy; the professional codes that guide investigator conduct; the responsibilities that come with serving as an expert witness; and the added complexity introduced by cross-border investigations.
-
-Taken together, these principles reinforce a central theme of this course: sound digital forensics requires the union of rigorous technical method with lawful process and ethical judgment. As you proceed through the remaining chapters — beginning with email forensics — keep in mind that every acquisition, analysis, and reporting decision should be evaluated not only for its technical soundness but also for its legal defensibility and ethical integrity.
+Legal and ethical considerations are important in digital forensics because evidence can become invalid if it is collected illegally, the chain of custody is broken, or the investigator acts unethically. Investigators must follow laws related to search, seizure, and privacy, maintain professional standards, and properly present evidence in court. Cross-border investigations may also have additional legal challenges. Therefore, digital forensics requires both good technical skills and proper legal and ethical practices throughout the collection, analysis, and reporting of evidence.
 
 ---
 
