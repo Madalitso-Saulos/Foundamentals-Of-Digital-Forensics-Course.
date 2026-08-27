@@ -2,22 +2,6 @@
 
 [⬅ Previous Chapter](../05-legal-and-ethical-considerations/README.md) | [Back to Course Home](../README.md) | [Next Chapter ➡](../07-network-forensics/README.md)
 
----
-
-## Learning Objectives
-
-By the end of this chapter, you should be able to:
-
-* Define email forensics and explain its importance in digital investigations.
-* Explain the basic architecture and operation of email systems.
-* Describe the roles of SMTP, IMAP, and POP3 in email communication.
-* Examine email headers and metadata to identify useful evidence.
-* Identify indicators of phishing, spoofing, and other email-based attacks.
-* Analyze email attachments and embedded links safely.
-* Recover and analyze deleted or hidden email evidence where possible.
-* Use appropriate tools and techniques for email forensic investigations.
-* Preserve email evidence while maintaining integrity and chain of custody.
-* Apply email forensic techniques to a simulated phishing investigation.
 
 ---
 
