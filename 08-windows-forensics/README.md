@@ -739,4 +739,4 @@ Windows forensic investigations must also prioritize evidence integrity, proper 
 
 ---
 
-[⬅ Chapter 7 — Network Forensics](../07-network-forensics/README.md) | [Back to Course Home](../../README.md) | [Next Chapter ➡](../09-malware-forensics/README.md)
+[Next Chapter ➡](../09-malware-forensics/README.md)
