@@ -4,27 +4,6 @@
 
 ---
 
-> **Status:** ✅ Complete — This chapter introduces the principles, techniques, tools, and investigation workflow used in network forensics.
-
-## Learning Objectives
-
-By the end of this chapter, you should be able to:
-
-* Understand the fundamentals and purpose of network forensics.
-* Explain the role of network evidence in a digital forensic investigation.
-* Identify common sources of network forensic evidence.
-* Capture and analyze network packets using tools such as Wireshark and tcpdump.
-* Apply packet filtering and display filters to identify relevant traffic.
-* Analyze network protocols such as TCP, UDP, DNS, HTTP, HTTPS, ARP, and ICMP.
-* Reconstruct network sessions and identify transferred files.
-* Analyze firewall, router, IDS/IPS, and other network logs.
-* Identify indicators of compromise and suspicious network activity.
-* Detect common attack patterns such as scanning, brute-force attempts, command-and-control traffic, and data exfiltration.
-* Correlate network evidence with other digital forensic artifacts.
-* Understand the challenges introduced by encryption, high traffic volumes, NAT, and volatile network data.
-* Document network forensic findings while maintaining evidence integrity and chain of custody.
-
----
 
 ## 1. Introduction to Network Forensics
 
