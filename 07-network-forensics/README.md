@@ -1395,29 +1395,31 @@ The major challenges include encryption, large traffic volumes, volatile evidenc
 See the [main References section](../../README.md#references) in the course README for additional digital forensics resources.
 
 ---
+## 29. References
 
-## Chapter Checklist
+1. Kent, K., Chevalier, S., Grance, T., & Dang, H. (2006). *Guide to Integrating Forensic Techniques into Incident Response*. NIST Special Publication 800-86. National Institute of Standards and Technology.
+   [NIST SP 800-86 — Official Publication](https://csrc.nist.gov/pubs/sp/800/86/final?utm_source=chatgpt.com)
 
-Before moving to the next chapter, make sure you can:
+2. National Institute of Standards and Technology (NIST). (2006). *Guide to Integrating Forensic Techniques into Incident Response*. The guide provides practical guidance for computer and network forensics, including evidence collection, examination, analysis, and reporting.
+[NIST Forensics Guide](https://www.nist.gov/publications/guide-integrating-forensic-techniques-incident-response?utm_source=chatgpt.com)
 
-* [ ] Explain what network forensics is.
-* [ ] Identify common network evidence sources.
-* [ ] Explain the difference between packets and network flows.
-* [ ] Capture network traffic using tcpdump.
-* [ ] Open and analyze PCAP files in Wireshark.
-* [ ] Apply Wireshark display filters.
-* [ ] Analyze TCP, UDP, DNS, HTTP, HTTPS, ARP, and ICMP traffic.
-* [ ] Follow and reconstruct TCP streams.
-* [ ] Identify suspicious network behavior.
-* [ ] Detect potential scanning and brute-force activity.
-* [ ] Recognize indicators of lateral movement.
-* [ ] Analyze network logs.
-* [ ] Build a network investigation timeline.
-* [ ] Correlate network evidence with endpoint and log evidence.
-* [ ] Explain the limitations caused by encryption and large traffic volumes.
-* [ ] Preserve and document network evidence appropriately.
-* [ ] Produce a basic network forensic report.
+3. Sharpe, R., Warnicke, E., & Lamping, U. *Wireshark User's Guide*. Wireshark Foundation. The guide documents packet capture, protocol analysis, display filters, conversations, endpoints, statistics, and related network analysis features.
+   [Wireshark User's Guide](https://www.wireshark.org/docs/wsug_html/?utm_source=chatgpt.com)
 
----
+4. Wireshark Foundation. *Wireshark Documentation*. Documentation covering Wireshark, TShark, dumpcap, tcpdump integration, capture files, display filters, and other network analysis utilities.
+   [Wireshark Documentation](https://www.wireshark.org/docs/?utm_source=chatgpt.com)
+
+5. Mockapetris, P. (1987). *Domain Names — Concepts and Facilities*. RFC 1034. Internet Engineering Task Force (IETF).
+   [RFC 1034 — DNS Concepts and Facilities](https://www.rfc-editor.org/rfc/rfc1034?utm_source=chatgpt.com)
+
+6. Mockapetris, P. (1987). *Domain Names — Implementation and Specification*. RFC 1035. Internet Engineering Task Force (IETF).
+   [RFC 1035 — DNS Implementation and Specification](https://www.rfc-editor.org/rfc/rfc1035?utm_source=chatgpt.com)
+
+7. National Institute of Standards and Technology (NIST). *Computer Security Incident Handling Guide*. NIST Special Publication 800-61. This provides additional guidance for incident handling and can be used alongside network forensic procedures.
+   [NIST SP 800-61](https://csrc.nist.gov/pubs/sp/800/61?utm_source=chatgpt.com)
+
+10. Bejtlich, R. (2013). *The Practice of Network Security Monitoring: Understanding Incident Detection and Response*. No Starch Press.
+
+
 
 [⬅ Chapter 6 — Email Forensics](../06-email-forensics/README.md) | [Back to Course Home](../../README.md) | [Next Chapter ➡](../08-windows-forensics/README.md)
