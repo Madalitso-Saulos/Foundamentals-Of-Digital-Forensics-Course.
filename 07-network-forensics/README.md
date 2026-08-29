@@ -1211,101 +1211,6 @@ Investigators should also avoid collecting unnecessary information and should pr
 
 The principles discussed in the chapter on [Legal and Ethical Considerations](../05-legal-and-ethical-considerations/README.md) should be applied throughout network forensic investigations.
 
----
-
-# 24. Practical Laboratory Exercise
-
-## Scenario
-
-You are given a packet capture from a simulated compromised workstation.
-
-Your objective is to determine whether suspicious network activity occurred.
-
-### Tasks
-
-1. Open the PCAP in Wireshark.
-2. Identify the top communicating hosts.
-3. Identify the protocols present.
-4. Identify unusual destination IP addresses.
-5. Examine DNS queries.
-6. Identify suspicious domains.
-7. Examine TCP conversations.
-8. Follow relevant TCP streams.
-9. Identify potential indicators of compromise.
-10. Construct a timeline of significant network events.
-11. Correlate findings with the provided logs.
-12. Calculate hashes for extracted evidence where applicable.
-13. Write a short forensic report.
-
-### Suggested Questions
-
-* What IP address appears to be the suspected internal host?
-* Which external systems did it communicate with?
-* What protocols were involved?
-* Were there unusual ports?
-* Were suspicious DNS queries observed?
-* Was there evidence of scanning?
-* Was there evidence of lateral movement?
-* Was data transferred externally?
-* What evidence supports your conclusion?
-
----
-
-# 25. Quick Reference
-
-### Capture traffic
-
-```bash
-sudo tcpdump -i eth0 -w evidence.pcap
-```
-
-### Read PCAP
-
-```bash
-tshark -r evidence.pcap
-```
-
-### DNS filter
-
-```text
-dns
-```
-
-### HTTP filter
-
-```text
-http
-```
-
-### TCP filter
-
-```text
-tcp
-```
-
-### Specific IP
-
-```text
-ip.addr == 192.168.1.50
-```
-
-### Specific port
-
-```text
-tcp.port == 443
-```
-
-### Follow a TCP conversation
-
-```text
-Wireshark → Analyze → Follow → TCP Stream
-```
-
-### Calculate SHA-256
-
-```bash
-sha256sum evidence.pcap
-```
 
 ---
 
@@ -1397,8 +1302,6 @@ See the [main References section](../../README.md#references) in the course READ
 7. National Institute of Standards and Technology (NIST). *Computer Security Incident Handling Guide*. NIST Special Publication 800-61. This provides additional guidance for incident handling and can be used alongside network forensic procedures.
    [NIST SP 800-61](https://csrc.nist.gov/pubs/sp/800/61?utm_source=chatgpt.com)
 
-10. Bejtlich, R. (2013). *The Practice of Network Security Monitoring: Understanding Incident Detection and Response*. No Starch Press.
 
 
-
-[⬅ Chapter 6 — Email Forensics](../06-email-forensics/README.md) | [Back to Course Home](../../README.md) | [Next Chapter ➡](../08-windows-forensics/README.md)
+[Next Chapter ➡](../08-windows-forensics/README.md)
