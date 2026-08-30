@@ -887,26 +887,6 @@ Forensic datasets can contain highly sensitive information.
 
 AI-assisted conclusions may require additional scrutiny regarding reliability and fairness.
 
----
-
-## 28. Best Practices
-
-Investigators using AI and ML should:
-
-1. **Preserve original evidence.**
-2. **Use AI as an investigative aid rather than unquestioned authority.**
-3. **Validate AI-generated findings.**
-4. **Document the model and software version.**
-5. **Record relevant configuration and parameters.**
-6. **Measure false positives and false negatives.**
-7. **Test models using representative datasets.**
-8. **Document known limitations and biases.**
-9. **Protect sensitive forensic data.**
-10. **Maintain chain of custody.**
-11. **Ensure results are reproducible where possible.**
-12. **Keep a human investigator involved in significant decisions.**
-13. **Distinguish original evidence from AI-generated interpretations.**
-14. **Clearly disclose the use of AI in forensic reports.**
 
 ---
 
