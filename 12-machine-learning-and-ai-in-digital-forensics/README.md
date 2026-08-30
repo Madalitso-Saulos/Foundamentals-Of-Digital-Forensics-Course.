@@ -4,26 +4,6 @@
 
 ---
 
-> **Status:** ✅ Complete — This chapter introduces the application of Artificial Intelligence (AI) and Machine Learning (ML) techniques to digital forensic investigations, including evidence triage, anomaly detection, malware classification, natural language processing, and forensic analysis.
-
-## Learning Objectives
-
-By the end of this chapter, you should be able to:
-
-* Understand the fundamental concepts of Artificial Intelligence and Machine Learning.
-* Explain how AI and ML can support digital forensic investigations.
-* Distinguish between supervised, unsupervised, and other relevant ML approaches.
-* Identify applications of AI/ML in forensic evidence analysis.
-* Apply AI-assisted techniques to evidence triage and classification.
-* Understand the use of anomaly detection for identifying suspicious activity.
-* Explain how NLP can assist with email, chat, and document analysis.
-* Understand AI-assisted malware classification.
-* Recognize the risks of bias, false positives, and false negatives.
-* Evaluate the explainability and reliability of AI-generated forensic findings.
-* Understand important considerations surrounding the admissibility and presentation of AI-assisted evidence.
-* Apply best practices when using AI and ML in forensic investigations.
-
----
 
 ## 1. Introduction
 
