@@ -1,11 +1,9 @@
-## Introduction
-
 [⬅ Previous Chapter](../03-cybercrime-fundamentals/README.md) | [Back to Course Home](../README.md) | [Next Chapter ➡](../05-legal-and-ethical-considerations/README.md)
 
 ---
 
 
-## 1. Overview
+## Introduction
 
 Digital evidence is one of the most important components of a digital forensic investigation.
 
