@@ -1,6 +1,6 @@
 # Chapter 11 — Anti-Forensics
 
-[⬅ Chapter 10 — Cloud Forensics](../10-cloud-forensics/README.md) | [Back to Course Home](../README.md) | [Next Chapter ➡](../12-machine-learning-and-ai-in-digital-forensics/README.md)
+[⬅ Previous Chapter](../10-cloud-forensics/README.md) | [Back to Course Home](../README.md) | [Next Chapter ➡](../12-machine-learning-and-ai-in-digital-forensics/README.md)
 
 ---
 
