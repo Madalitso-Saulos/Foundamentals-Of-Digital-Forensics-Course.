@@ -843,27 +843,15 @@ Cloud environments should also be designed with forensic readiness in mind. Orga
 
 ## References
 
-* Casey, E. (2011). *Digital Evidence and Computer Crime: Forensic Science, Computers, and the Internet* (3rd ed.). Academic Press.
-
-* Cloud Security Alliance. (2017). *Security Guidance for Critical Areas of Focus in Cloud Computing v4.0*. Cloud Security Alliance.
-
-* Kent, K., Chevalier, S., Grance, T., & Dang, H. (2006). *Guide to Integrating Forensic Techniques into Incident Response*. NIST Special Publication 800-86. National Institute of Standards and Technology.
-
-* Mell, P., & Grance, T. (2011). *The NIST Definition of Cloud Computing*. NIST Special Publication 800-145. National Institute of Standards and Technology.
-
-* National Institute of Standards and Technology. (2012). *Guidelines on Security and Privacy in Public Cloud Computing*. NIST Special Publication 800-144.
-
-* National Institute of Standards and Technology. (2012). *Computer Security Incident Handling Guide*. NIST Special Publication 800-61 Revision 2.
-
-* National Institute of Standards and Technology. (2020). *Cloud Computing Forensic Science Challenges*. National Institute of Standards and Technology.
-
-* Nelson, B., Phillips, A., & Steuart, C. (2019). *Guide to Computer Forensics and Investigations* (6th ed.). Cengage.
-
-* Amazon Web Services. *AWS CloudTrail User Guide*. AWS Documentation.
-
-* Microsoft. *Azure Monitor Documentation*. Microsoft Learn.
-
-* Google Cloud. *Cloud Audit Logs Documentation*. Google Cloud Documentation.
+1. Casey, E. (2011). *Digital Evidence and Computer Crime: Forensic Science, Computers, and the Internet* (3rd ed.). Academic Press.
+2. Cloud Security Alliance. (2017). *Security Guidance for Critical Areas of Focus in Cloud Computing v4.0*. Cloud Security Alliance.
+3. Kent, K., Chevalier, S., Grance, T., & Dang, H. (2006). *Guide to Integrating Forensic Techniques into Incident Response*. NIST Special Publication 800-86. National Institute of Standards and Technology.
+4. Mell, P., & Grance, T. (2011). *The NIST Definition of Cloud Computing*. NIST Special Publication 800-145. National Institute of Standards and Technology.
+5. National Institute of Standards and Technology. (2012). *Guidelines on Security and Privacy in Public Cloud Computing*. NIST Special Publication 800-144.
+6. National Institute of Standards and Technology. (2012). *Computer Security Incident Handling Guide*. NIST Special Publication 800-61 Revision 2.
+7. National Institute of Standards and Technology. (2020). *Cloud Computing Forensic Science Challenges*. National Institute of Standards and Technology.
+8. Nelson, B., Phillips, A., & Steuart, C. (2019). *Guide to Computer Forensics and Investigations* (6th ed.). Cengage.
+9. Google Cloud. *Cloud Audit Logs Documentation*. Google Cloud Documentation.
 
 ---
 [Next Chapter ➡](../11-anti-forensics/README.md)
