@@ -1,24 +1,6 @@
 # Chapter 10 — Cloud Forensics
 
-[⬅ Chapter 9 — Malware Forensics](../09-malware-forensics/README.md) | [Back to Course Home](../README.md) | [Next Chapter ➡](../11-anti-forensics/README.md)
-
----
-
-> **Status:** ✅ Complete — This chapter introduces the principles, techniques, challenges, and tools used in cloud forensic investigations.
-
-## Learning Objectives
-
-By the end of this chapter, you should be able to:
-
-* Understand the fundamental concepts of cloud forensics.
-* Explain how cloud computing differs from traditional computing environments from a forensic perspective.
-* Identify common cloud service and deployment models.
-* Explain challenges associated with acquiring and preserving cloud evidence.
-* Identify important sources of evidence in cloud environments.
-* Understand the role of cloud provider logs, APIs, and audit trails.
-* Apply appropriate techniques for investigating cloud storage, virtual machines, containers, and cloud applications.
-* Recognize legal, privacy, jurisdictional, and multi-tenancy issues in cloud investigations.
-* Identify tools and best practices for conducting cloud forensic investigations.
+[⬅ Previous Chapter](../09-malware-forensics/README.md) | [Back to Course Home](../README.md) | [Next Chapter ➡](../11-anti-forensics/README.md)
 
 ---
 
@@ -884,5 +866,4 @@ Cloud environments should also be designed with forensic readiness in mind. Orga
 * Google Cloud. *Cloud Audit Logs Documentation*. Google Cloud Documentation.
 
 ---
-
-[⬅ Chapter 9 — Malware Forensics](../09-malware-forensics/README.md) | [Back to Course Home](../../README.md) | [Next Chapter ➡](../11-anti-forensics/README.md)
+[Next Chapter ➡](../11-anti-forensics/README.md)
