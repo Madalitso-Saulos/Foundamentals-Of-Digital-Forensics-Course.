@@ -1151,14 +1151,12 @@ Digital evidence forms the foundation of any digital forensic investigation. Und
 
 ## References
 
-- National Institute of Standards and Technology (NIST). *Guide to Integrating Forensic Techniques into Incident Response* (SP 800-86).
-- National Institute of Standards and Technology (NIST). *Guidelines on Mobile Device Forensics* (SP 800-101).
-- International Organization for Standardization. *ISO/IEC 27037:2012 — Guidelines for identification, collection, acquisition, and preservation of digital evidence.*
-- International Organization for Standardization. *ISO/IEC 27042:2015 — Guidelines for the analysis and interpretation of digital evidence.*
-- Association of Chief Police Officers (ACPO). *Good Practice Guide for Digital Evidence.*
-- Scientific Working Group on Digital Evidence (SWGDE). *Best Practices for Computer Forensics.*
-- Casey, E. *Digital Evidence and Computer Crime: Forensic Science, Computers, and the Internet.* Academic Press.
-- Carrier, B. *File System Forensic Analysis.* Addison-Wesley.
+1.  National Institute of Standards and Technology (NIST). *Guide to Integrating Forensic Techniques into Incident Response* (SP 800-86).
+2.  International Organization for Standardization. *ISO/IEC 27037:2012 — Guidelines for identification, collection, acquisition, and preservation of digital evidence.*
+3. International Organization for Standardization. *ISO/IEC 27042:2015 — Guidelines for the analysis and interpretation of digital evidence.*
+4.  Association of Chief Police Officers (ACPO). *Good Practice Guide for Digital Evidence.*5Scientific Working Group on Digital Evidence (SWGDE). *Best Practices for Computer Forensics.*
+5.  Casey, E. *Digital Evidence and Computer Crime: Forensic Science, Computers, and the Internet.* Academic Press.
+
 
 > **Note:** Standards and best-practice documents are periodically revised. Learners and practitioners should always consult the current published edition and any applicable local legal or regulatory requirements.
 
