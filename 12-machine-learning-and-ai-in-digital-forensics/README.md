@@ -959,15 +959,10 @@ For additional information, consult:
 
 * Nelson, B., Phillips, A., & Steuart, C. (2019). *Guide to Computer Forensics and Investigations* (6th ed.). Cengage.
 
-* Mitchell, T. M. (1997). *Machine Learning*. McGraw-Hill.
-
-* Bishop, C. M. (2006). *Pattern Recognition and Machine Learning*. Springer.
 
 * Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press.
 
 * European Union Agency for Cybersecurity (ENISA). (2020). *Artificial Intelligence Cybersecurity Challenges*.
-
-* MITRE. *MITRE ATT&CK Framework*. MITRE Corporation.
 
 ---
 
