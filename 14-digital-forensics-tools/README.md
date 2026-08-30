@@ -1,7 +1,6 @@
 # Chapter 14 — Digital Forensics Tools
 
-[⬅ Chapter 13 — Professional Reporting and Presentation](../13-professional-reporting-and-presentation/README.md) | [Back to Course Home](../README.md)
-
+[⬅ Previous Chapter](../12-machine-learning-and-ai-in-digital-forensics/README.md) | [Back to Course Home](../README.md) | [Next Chapter ➡](../14-digital-forensics-tools/README.md)
 
 ---
 
