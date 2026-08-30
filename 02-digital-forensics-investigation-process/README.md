@@ -323,15 +323,15 @@ In short, the digital forensics process moves from **finding out what evidence m
 
 ## References
 
-- National Institute of Standards and Technology (NIST). *Guide to Integrating Forensic Techniques into Incident Response*, SP 800-86.
-- National Institute of Standards and Technology (NIST). *Computer Forensics Tool Testing (CFTT) Program*.
-- ISO/IEC 27037:2012 — *Guidelines for identification, collection, acquisition, and preservation of digital evidence*.
-- Scientific Working Group on Digital Evidence (SWGDE). *SWGDE Best Practices for Computer Forensic Acquisitions*.
-- Casey, E. *Digital Evidence and Computer Crime: Forensic Science, Computers, and the Internet*.
-- Carrier, B. *File System Forensic Analysis*.
-- Autopsy / The Sleuth Kit Documentation — https://www.sleuthkit.org/
-- Volatility Foundation Documentation — https://www.volatilityfoundation.org/
-- Wireshark Documentation — https://www.wireshark.org/docs/
+1. National Institute of Standards and Technology (NIST). *Guide to Integrating Forensic Techniques into Incident Response*, SP 800-86.
+2. National Institute of Standards and Technology (NIST). *Computer Forensics Tool Testing (CFTT) Program*.
+3. ISO/IEC 27037:2012 — *Guidelines for identification, collection, acquisition, and preservation of digital evidence*.
+4. Scientific Working Group on Digital Evidence (SWGDE). *SWGDE Best Practices for Computer Forensic Acquisitions*.
+5. Casey, E. *Digital Evidence and Computer Crime: Forensic Science, Computers, and the Internet*.
+6. Carrier, B. *File System Forensic Analysis*.
+7. Autopsy / The Sleuth Kit Documentation — https://www.sleuthkit.org/
+8. Volatility Foundation Documentation — https://www.volatilityfoundation.org/
+9. Wireshark Documentation — https://www.wireshark.org/docs/
 
 
  [Next Chapter ➡](../03-cybercrime-fundamentals/README.md)
