@@ -4,26 +4,6 @@
 
 ---
 
-> **Status:** ✅ Complete — This chapter introduces anti-forensic techniques used to hide, destroy, manipulate, or obstruct the discovery and interpretation of digital evidence, together with methods investigators can use to detect and counter them.
-
-## Learning Objectives
-
-By the end of this chapter, you should be able to:
-
-* Define anti-forensics and explain its role in digital investigations.
-* Identify common anti-forensic techniques.
-* Explain how attackers attempt to hide, modify, encrypt, or destroy evidence.
-* Understand data hiding and steganography techniques.
-* Explain secure deletion and data wiping.
-* Understand the forensic implications of encryption.
-* Identify log and timestamp manipulation techniques.
-* Detect indicators of anti-forensic activity.
-* Apply appropriate countermeasures during forensic investigations.
-* Understand the limitations of forensic recovery techniques.
-* Document anti-forensic activity in a forensic report.
-
----
-
 ## 1. Introduction to Anti-Forensics
 
 Anti-forensics refers to techniques designed to prevent, obstruct, alter, or delay the identification, collection, examination, or interpretation of digital evidence.
