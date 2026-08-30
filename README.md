@@ -34,7 +34,6 @@
 - [Chapter 12 — Machine Learning and Artificial Intelligence in Digital Forensics](/12-machine-learning-and-ai-in-digital-forensics/README.md)
 - [Chapter 13 — Professional Reporting and Presentation](/13-professional-reporting-and-presentation/README.md)
 - [Chapter 14 — Digital Forensics Tools](/14-digital-forensics-tools/README.md)
-- [References](#references)
 - [Contributing](#contributing)
 - [License](#license)
 - [Author](#author)
