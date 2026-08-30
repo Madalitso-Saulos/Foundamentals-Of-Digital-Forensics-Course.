@@ -1,6 +1,6 @@
 # Chapter 14 — Digital Forensics Tools
 
-[⬅ Previous Chapter](../12-machine-learning-and-ai-in-digital-forensics/README.md) | [Back to Course Home](../README.md) | [Next Chapter ➡](../14-digital-forensics-tools/README.md)
+[⬅ Previous Chapter](../12-machine-learning-and-ai-in-digital-forensics/README.md) | [Back to Course Home](../README.md)
 
 ---
 
