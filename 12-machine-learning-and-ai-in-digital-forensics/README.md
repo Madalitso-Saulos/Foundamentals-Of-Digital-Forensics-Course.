@@ -4,23 +4,9 @@
 
 ---
 
-
 ## 1. Introduction
 
-Digital forensic investigations increasingly involve very large datasets.
-
-A single investigation may contain:
-
-* Millions of files
-* Thousands of emails
-* Chat conversations
-* Browser histories
-* Network traffic
-* System logs
-* Images and videos
-* Malware samples
-* Cloud activity
-* Mobile device artifacts
+Digital forensic investigations increasingly involve very large datasets. A single investigation may contain millions of files, thousands of emails, chat conversations, browser histories, network traffic, system logs, images and videos, malware samples, cloud activity, and mobile device artifacts
 
 Manually examining every piece of evidence can be time-consuming and inefficient.
 
