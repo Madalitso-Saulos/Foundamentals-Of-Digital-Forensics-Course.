@@ -1137,14 +1137,12 @@ For additional information, consult:
 ## References
 
 1. Casey, E. (2011). *Digital Evidence and Computer Crime: Forensic Science, Computers, and the Internet* (3rd ed.). Academic Press.
-2.  Carrier, B. (2005). *File System Forensic Analysis*. Addison-Wesley Professional.
-3.  Nelson, B., Phillips, A., & Steuart, C. (2019). *Guide to Computer Forensics and Investigations* (6th ed.). Cengage.
-4. Kent, K., Chevalier, S., Grance, T., & Dang, H. (2006). *Guide to Integrating Forensic Techniques into Incident Response*. NIST Special Publication 800-86. National Institute of Standards and Technology.
-5. National Institute of Standards and Technology. *Computer Forensics Tool Testing Program (CFTT)*. National Institute of Standards and Technology.
-6. Scientific Working Group on Digital Evidence (SWGDE). *Best Practices for Computer Forensics*. SWGDE.
-7. Scientific Working Group on Digital Evidence (SWGDE). *Best Practices for Digital Evidence Collection*. SWGDE.
-8.  Garfinkel, S. (2010). Digital forensics research: The next 10 years. *Digital Investigation, 7*, S64–S73.
-9.  Casey, E. (2019). The impact of digital evolution on forensic science. *Digital Investigation, 28*, 1–3.
+2. Nelson, B., Phillips, A., & Steuart, C. (2019). *Guide to Computer Forensics and Investigations* (6th ed.). Cengage.
+3. Kent, K., Chevalier, S., Grance, T., & Dang, H. (2006). *Guide to Integrating Forensic Techniques into Incident Response*. NIST Special Publication 800-86. National Institute of Standards and Technology.
+4. National Institute of Standards and Technology. *Computer Forensics Tool Testing Program (CFTT)*. National Institute of Standards and Technology.
+5. Scientific Working Group on Digital Evidence (SWGDE). *Best Practices for Computer Forensics*. SWGDE.
+6. Scientific Working Group on Digital Evidence (SWGDE). *Best Practices for Digital Evidence Collection*. SWGDE.
+7. Garfinkel, S. (2010). Digital forensics research: The next 10 years. *Digital Investigation, 7*, S64–S73.
 
 ---
 
