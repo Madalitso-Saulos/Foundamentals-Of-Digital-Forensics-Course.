@@ -329,9 +329,6 @@ In short, the digital forensics process moves from **finding out what evidence m
 4. Scientific Working Group on Digital Evidence (SWGDE). *SWGDE Best Practices for Computer Forensic Acquisitions*.
 5. Casey, E. *Digital Evidence and Computer Crime: Forensic Science, Computers, and the Internet*.
 6. Carrier, B. *File System Forensic Analysis*.
-7. Autopsy / The Sleuth Kit Documentation — https://www.sleuthkit.org/
-8. Volatility Foundation Documentation — https://www.volatilityfoundation.org/
-9. Wireshark Documentation — https://www.wireshark.org/docs/
 
 
  [Next Chapter ➡](../03-cybercrime-fundamentals/README.md)
