@@ -868,20 +868,10 @@ Successful cybercrime investigations therefore require a combination of **techni
 4. National Institute of Standards and Technology (NIST). (2014). *Guide to Integrating Forensic Techniques into Incident Response*. NIST Computer Security Resource Center.
 
 5. National Institute of Standards and Technology (NIST). (2012). *Computer Security Incident Handling Guide*. Special Publication 800-61 Revision 2.
-
-6. International Organization for Standardization (ISO). *ISO/IEC 27037 — Information technology — Security techniques — Guidelines for identification, collection, acquisition and preservation of digital evidence*.
-
-7. International Organization for Standardization (ISO). *ISO/IEC 27041 — Information technology — Security techniques — Guidance on assuring suitability and adequacy of incident investigative method*.
-
-8. International Organization for Standardization (ISO). *ISO/IEC 27042 — Information technology — Security techniques — Guidelines for the analysis and interpretation of digital evidence*.
-
-9. MITRE. *MITRE ATT&CK®*. Knowledge base of adversary tactics, techniques, and procedures.
-
-10. INTERPOL. *Digital Forensics*. Guidance and resources relating to digital evidence and forensic investigation.
-
-11. Europol. *Internet Organised Crime Threat Assessment (IOCTA)*. Reports concerning emerging cybercrime threats and trends.
-
-12. United Nations Office on Drugs and Crime (UNODC). *Comprehensive Study on Cybercrime*. United Nations resources on cybercrime and criminal justice.
+6. MITRE. *MITRE ATT&CK®*. Knowledge base of adversary tactics, techniques, and procedures.
+7. INTERPOL. *Digital Forensics*. Guidance and resources relating to digital evidence and forensic investigation.
+8. Europol. *Internet Organised Crime Threat Assessment (IOCTA)*. Reports concerning emerging cybercrime threats and trends.
+9. United Nations Office on Drugs and Crime (UNODC). *Comprehensive Study on Cybercrime*. United Nations resources on cybercrime and criminal justice.
 
 ---
 
