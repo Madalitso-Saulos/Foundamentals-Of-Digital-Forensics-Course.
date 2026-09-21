@@ -734,10 +734,7 @@ A reliable email investigation requires careful preservation of evidence, comple
 5. Kucherawy, M., & Zwicky, E. (2015). *Domain-based Message Authentication, Reporting, and Conformance (DMARC)*. RFC 7489. Internet Engineering Task Force (IETF).
 
 6. National Institute of Standards and Technology (NIST). *Guide to Integrating Forensic Techniques into Incident Response*. NIST Special Publication 800-86.
-
-7. National Institute of Standards and Technology (NIST). *Guidelines on Mobile Device Forensics*. NIST Special Publication 800-101.
-
-8. Casey, E. (2011). *Digital Evidence and Computer Crime: Forensic Science, Computers, and the Internet* (3rd ed.). Academic Press.
+7. Casey, E. (2011). *Digital Evidence and Computer Crime: Forensic Science, Computers, and the Internet* (3rd ed.). Academic Press.
 
 
 ---
